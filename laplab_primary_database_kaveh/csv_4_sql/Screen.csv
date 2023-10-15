@@ -1,0 +1,88 @@
+Screen_ID,Screen_Size,Screen_Type,Screen_resolution
+1,15.6,Full HD ,1920x1080
+2,13.3,IPS Panel Full HD / Touchscreen ,1920x1080
+3,15.6,IPS Panel Full HD ,1920x1080
+4,13.3,IPS Panel Full HD ,1920x1080
+5,14.0,Full HD ,1920x1080
+6,15.6,,1366x768
+7,11.6,Touchscreen ,1366x768
+8,14.0,IPS Panel Full HD / Touchscreen ,1920x1080
+9,17.3,Full HD ,1920x1080
+10,15.6,IPS Panel Full HD / Touchscreen ,1920x1080
+11,13.3,Full HD ,1920x1080
+12,13.9,IPS Panel Full HD / Touchscreen ,1920x1080
+13,17.3,IPS Panel Full HD ,1920x1080
+14,17.3,,1600x900
+15,14.0,IPS Panel Full HD ,1920x1080
+16,12.0,IPS Panel Retina Display ,2304x1440
+17,15.0,Full HD / Touchscreen ,1920x1080
+18,15.6,IPS Panel Full HD ,1366x768
+19,13.0,IPS Panel Full HD ,2160x1440
+20,14.0,,1366x768
+21,13.3,IPS Panel Quad HD+ / Touchscreen ,3200x1800
+22,13.5,Touchscreen ,2256x1504
+23,12.5,IPS Panel 4K Ultra HD / Touchscreen ,3840x2160
+24,13.3,Full HD / Touchscreen ,1920x1080
+25,11.6,,1366x768
+26,12.5,IPS Panel Full HD ,1920x1080
+27,13.3,IPS Panel Quad HD+ ,3200x1800
+28,10.1,IPS Panel Touchscreen ,1920x1200
+29,15.6,Full HD / Touchscreen ,1920x1080
+30,11.6,IPS Panel Touchscreen ,1366x768
+31,12.5,,1366x768
+32,12.5,Full HD / Touchscreen ,1920x1080
+33,15.4,IPS Panel Retina Display ,2880x1800
+34,17.3,,1366x768
+35,12.5,Full HD ,1920x1080
+36,13.3,Quad HD+ / Touchscreen ,3200x1800
+37,15.6,Touchscreen ,1366x768
+38,13.3,,1366x768
+39,15.6,IPS Panel Touchscreen / 4K Ultra HD ,3840x2160
+40,11.3,IPS Panel Full HD / Touchscreen ,1920x1080
+41,13.3,,1440x900
+42,15.6,IPS Panel 4K Ultra HD / Touchscreen ,3840x2160
+43,12.3,Touchscreen ,2400x1600
+44,17.3,IPS Panel Full HD / Touchscreen ,1920x1080
+45,15.6,IPS Panel 4K Ultra HD ,3840x2160
+46,12.5,Touchscreen / 4K Ultra HD ,3840x2160
+47,13.3,IPS Panel Retina Display ,2560x1600
+48,15.6,4K Ultra HD / Touchscreen ,3840x2160
+49,15.6,,1920x1080
+50,14.0,IPS Panel Full HD ,2560x1440
+51,14.0,Full HD / Touchscreen ,1920x1080
+52,15.6,IPS Panel ,1366x768
+53,15.6,4K Ultra HD ,3840x2160
+54,13.3,IPS Panel Touchscreen ,1366x768
+55,17.3,Full HD / Touchscreen ,1920x1080
+56,13.3,Quad HD+ ,3200x1800
+57,13.3,IPS Panel 4K Ultra HD / Touchscreen ,3840x2160
+58,12.5,IPS Panel ,1366x768
+59,12.5,IPS Panel Full HD / Touchscreen ,1920x1080
+60,14.0,IPS Panel ,1366x768
+61,13.3,Touchscreen / Full HD ,1920x1080
+62,14.0,,2560x1440
+63,17.0,,1600x900
+64,14.0,IPS Panel Quad HD+ ,2560x1440
+65,13.3,Touchscreen ,2560x1440
+66,13.3,IPS Panel 4K Ultra HD ,3840x2160
+67,11.6,IPS Panel ,1366x768
+68,17.3,IPS Panel 4K Ultra HD ,3840x2160
+69,12.3,IPS Panel Touchscreen ,2400x1600
+70,14.0,IPS Panel ,2560x1440
+71,17.3,4K Ultra HD ,3840x2160
+72,14.0,IPS Panel Touchscreen ,2560x1440
+73,12.5,IPS Panel Touchscreen ,2560x1440
+74,13.9,IPS Panel 4K Ultra HD / Touchscreen ,3840x2160
+75,13.3,Touchscreen / Quad HD+ ,3200x1800
+76,14.0,,1920x1080
+77,15.0,Full HD ,1920x1080
+78,17.3,4K Ultra HD / Touchscreen ,3840x2160
+79,14.0,Touchscreen ,2560x1440
+80,12.3,IPS Panel Retina Display ,2736x1824
+81,11.6,IPS Panel Full HD / Touchscreen ,1920x1080
+82,18.4,Full HD ,1920x1080
+83,17.3,IPS Panel ,2560x1440
+84,14.0,IPS Panel Full HD ,1920x1200
+85,14.1,,1366x768
+86,12.5,4K Ultra HD / Touchscreen ,3840x2160
+87,17.3,,2560x1440

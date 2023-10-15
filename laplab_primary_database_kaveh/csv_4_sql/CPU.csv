@@ -1,0 +1,108 @@
+CPU_ID,CPU_Brand,CPU_Model,CPU_GHZ
+1,Intel,Core i5 7200U,2.5
+2,Intel,Core i7 6700HQ,2.6
+3,Intel,Core i7 8550U,1.8
+4,AMD,FX 8800P,2.1
+5,Intel,Core i7 7500U,2.7
+6,Intel,Core i5 6440HQ,2.6
+7,Intel,Core i7 7700HQ,2.8
+8,Intel,Core i5 6200U,2.3
+9,Intel,Celeron Dual Core N3350,1.1
+10,Intel,Core i7 7Y75,1.3
+11,Intel,Core i7 6500U,2.5
+12,Intel,Core i5 7300HQ,2.5
+13,Intel,Core i3 6006U,2.0
+14,Intel,Core i5 8250U,1.6
+15,Intel,Core i3 6100U,2.3
+16,Intel,Core i5 7300U,2.6
+17,Intel,Core i7 7820HQ,2.9
+18,AMD,A8-Series 7410,2.2
+19,Intel,Core M,1.1
+20,Intel,Core i5 6300U,2.4
+21,AMD,A10-Series 9620P,2.5
+22,Intel,Core i3 7100U,2.4
+23,AMD,A6-Series 9220,2.5
+24,Intel,Core M 7Y30,1.0
+25,Intel,Core i7 6820HK,2.7
+26,Intel,Core M m3-7Y30,2.2
+27,Intel,Core i5 7440HQ,2.8
+28,,,
+29,Intel,Core i7 6600U,2.6
+30,Intel,Core i7 7500U,2.5
+31,Intel,Pentium Quad Core N3710,1.6
+32,Intel,Core i5 6300HQ,2.3
+33,Intel,Pentium Quad Core N4200,1.1
+34,Intel,Celeron Dual Core N3060,1.6
+35,Intel,Core i7 7600U,2.8
+36,Intel,Core i5,1.3
+37,AMD,Ryzen 1600,3.2
+38,Intel,Core i5,1.6
+39,Intel,Atom x5-Z8550,1.44
+40,Intel,Celeron Quad Core N3160,1.6
+41,Intel,Core i3 6100U,2.1
+42,Intel,Core i7,2.2
+43,Intel,Celeron Dual Core N3050,1.6
+44,Intel,Core i7 8650U,1.9
+45,AMD,A9-Series 9410,2.9
+46,Intel,Core M 6Y30,0.9
+47,Intel,Core i7 7560U,2.4
+48,AMD,A12-Series 9720P,3.6
+49,Intel,Core i5 7200U,2.7
+50,Intel,Core M m7-6Y75,1.2
+51,Intel,Xeon E3-1535M v5,2.9
+52,AMD,A12-Series 9720P,2.7
+53,Intel,Celeron Quad Core N3450,1.1
+54,Intel,Atom x5-Z8300,1.44
+55,Intel,Core i3 7130U,2.7
+56,Intel,Core i7 7820HK,2.9
+57,Intel,Core i5,2.3
+58,Intel,Core M M3-6Y30,0.9
+59,Intel,Core i5,1.8
+60,Intel,Atom x5-Z8350,1.44
+61,Intel,Core M M7-6Y75,1.2
+62,Intel,Core i5 7Y57,1.2
+63,Intel,Pentium Dual Core 4405U,2.1
+64,Intel,Core M,1.2
+65,Intel,Celeron Dual Core 3855U,1.6
+66,Intel,Pentium Quad Core N3700,1.6
+67,Intel,Core i7 7660U,2.5
+68,Intel,Core i5,2.0
+69,Intel,Core i5 7500U,2.7
+70,Intel,Core i7 6820HQ,2.7
+71,Intel,Core i7,2.7
+72,Intel,Core i5 7Y54,1.2
+73,AMD,A10-Series 9600P,2.4
+74,AMD,A10-Series A10-9620P,2.5
+75,Intel,Core M 6Y54,1.1
+76,AMD,A12-Series 9700P,2.5
+77,Intel,Core i7 7700HQ,2.7
+78,Intel,Core i5,3.1
+79,Intel,Core M m3,1.2
+80,AMD,A9-Series 9420,2.9
+81,AMD,E-Series 7110,1.8
+82,AMD,A6-Series A6-9220,2.5
+83,Intel,Pentium Dual Core 4405Y,1.5
+84,Intel,Pentium Dual Core N4200,1.1
+85,Intel,Core M 6Y75,1.2
+86,Intel,Celeron Quad Core N3710,1.6
+87,Samsung,Cortex A72&A53,2.0
+88,Intel,Core i5 6260U,1.8
+89,AMD,E-Series E2-9000,2.2
+90,Intel,Core i7 6560U,2.2
+91,AMD,E-Series E2-6110,1.5
+92,AMD,A6-Series 9220,2.9
+93,AMD,E-Series E2-9000e,1.5
+94,Intel,Core i7,2.9
+95,Intel,Core i3 6006U,2.2
+96,Intel,Celeron Dual Core 3205U,1.5
+97,Intel,Core i7,2.8
+98,AMD,E-Series 9000e,1.5
+99,Intel,Core i7 6920HQ,2.9
+100,Intel,Atom X5-Z8350,1.44
+101,Intel,Core i5,2.9
+102,AMD,E-Series 6110,1.5
+103,AMD,A4-Series 7210,2.2
+104,Intel,Atom Z8350,1.92
+105,AMD,E-Series 9000,2.2
+106,Intel,Xeon E3-1535M v6,3.1
+107,Intel,Celeron Dual Core N3350,2.0
