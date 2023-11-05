@@ -82,6 +82,7 @@ We value collaborative effort and believe that the diversity of ideas can lead t
 ## 🙏 Acknowledgments
 
 - **Lotech Management** for entrusting us with this important project and providing the necessary data.
+- [**Quera**](https://github.com/QueraTeam) for hosting the Data Analysis Bootcamp and supporting our educational journey.
 - Mentor: [**Sina Asghari**](https://github.com/sinaaasghari) for his wisdom in leading and mentoring the team
 - The data analysis community for sharing their knowledge and resources.
 
