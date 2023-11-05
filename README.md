@@ -82,7 +82,7 @@ We value collaborative effort and believe that the diversity of ideas can lead t
 ## 🙏 Acknowledgments
 
 - **Lotech Management** for entrusting us with this important project and providing the necessary data.
-- Mentor: **Sina Asghari** for his wisdom in leading and mentoring the team
+- Mentor: [**Sina Asghari**](https://github.com/sinaaasghari) for his wisdom in leading and mentoring the team
 - The data analysis community for sharing their knowledge and resources.
 
 ---
