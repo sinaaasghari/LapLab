@@ -1,4 +1,4 @@
-# Project LapLab :: Laptop Sales Data Analysis
+# Project <span style="color: red;">LapLab</span> :: Laptop Sales Data Analysis
 ## Client: Lotech e-Commerce
 Data Analysis Bootcamp / Fall 2023 / Team G2
 
