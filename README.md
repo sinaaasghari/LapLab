@@ -77,7 +77,7 @@ git clone https://github.com/LapLab/LapLab-DatabaseDesign.git
 ## 🤝 Contribution
 
 We value collaborative effort and believe that the diversity of ideas can lead to groundbreaking innovations. We welcome contributions of all sizes and encourage the sharing of insights that could propel this project to greater heights. Let's build something remarkable together!
-- Contributors: [Shadmehr](https://github.com/RexGod), [Ali](https://github.com/aliNzmv), [Amir](https://github.com/AmirRezaei-2023), [Mohamad](https://github.com/MohammadNasimi), and [Kaveh](https://github.com/kvmmn) for their diligent work and dedication.
+- Contributors: [Shadmehr](https://github.com/RexGod), [Ali](https://github.com/aliNzmv), [Amir](https://github.com/AmirRezaei-2023), [Mohamad](https://github.com/MohammadNasimi), and [Kaveh](https://github.com/kvmmn)
 
 ## 🙏 Acknowledgments
 
