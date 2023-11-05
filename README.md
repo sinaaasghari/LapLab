@@ -32,9 +32,27 @@ The project **LapLab**'s  goal is to harness the power of data to refine sales s
   ├── version_2_digikala_1.csv
   ├── version_4_digikala_1.csv
 - 04_ClientOrders
-  ├── [Client order data analysis and insights]
+  ├── laplab_client_orders_1.ipynb
+  ├── laplab_client_orders_2.ipynb
+  ├── laplab_client_orders_3.ipynb
+  ├── laplab_client_orders_4.ipynb
+  ├── laplab_client_orders_5_1.ipynb
+  ├── laplab_client_orders_5_2.ipynb
+  ├── laplab_client_orders_5_output.csv
+  ├── laplab_client_orders_6.ipynb
+  ├── laplab_client_orders_6_1.csv
+  ├── laplab_client_orders_6_2.csv
+  ├── laplab_client_orders_6_3.csv
+  ├── laplab_client_orders_6_4.csv
+  ├── laplab_client_orders_7.ipynb
+  ├── laplab_client_orders_8.ipynb
+  ├── laplab_client_orders_8_pics
+  ├── laplab_client_orders_9.ipynb
+  ├── laplab_client_orders_9.csv
 - 05_PowerBIDashboard
-  ├── [Power BI dashboards and reports for data visualization]
+  ├── powerbi_dashboard.pbix
+  ├── AnimatedBarChartRace.wishyoulizationbarchartrace.1.0.0.0.pbiviz
+  ├── chicletSlicer.1.3.0.pbiviz
 ```
 
 ## 🚀 Getting Started
@@ -45,14 +63,15 @@ git clone https://github.com/LapLab/LapLab-DatabaseDesign.git
 ```
 
 2. **Database Setup**:
-   - Use the `LapLab_DatabaseCreation.ipynb` to create the initial database structure.
-   - Import data using the CSV files found in the `LapLab_CSVForSQL.zip`.
+   - Use the `generate_dataframes_csv_from_flat.ipynb` to create the initial csv tables from flat files (As available in csv_4_sql.zip)
+   - Use 'sql_start_database_structure.sql' to initialize MySQL database architecture.
+   - Use 'create_mysql_database.ipynb' to fill in all database tables and instances.
 
-3. **Data Analysis**:
-   - Analyze sales patterns using the `LapLab_CleanSalesData.csv`.
+4. **Data Analysis**:
+   - Analyze sales patterns using the `sales_data_clean.csv`.
    - Generate reports and insights to guide business strategies.
 
-4. **Data Visualization**:
+5. **Data Visualization**:
    - Develop Power BI dashboards to visualize key metrics and KPIs.
 
 ## 🤝 Contribution
@@ -61,9 +80,10 @@ We value collaborative effort and believe that the diversity of ideas can lead t
 
 ## 🙏 Acknowledgments
 
-- **LapLab Management** for entrusting us with this important project and providing the necessary data.
-- All team members for their unwavering commitment and expertise.
+- **Lotech Management** for entrusting us with this important project and providing the necessary data.
+- Mentor: **Sina Asghari** for his wisdom in leading and mentoring the team
+- Contributors: [Shadmehr](https://github.com/RexGod), [Ali](https://github.com/aliNzmv), [Amir](https://github.com/AmirRezaei-2023), [Mohamad](https://github.com/MohammadNasimi), and [Kaveh](https://github.com/kvmmn) for their diligent work and dedication.
 - The data analysis community for sharing their knowledge and resources.
 
 ---
-© 2023 Data Analysis Bootcamp / Team LapLab. All Rights Reserved.
+© 2023 Quera Data Analysis Bootcamp / Team G2. All Rights Reserved.
