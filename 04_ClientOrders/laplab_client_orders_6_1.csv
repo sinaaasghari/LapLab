@@ -1,0 +1,1035 @@
+﻿Processor Manufacturer,Processor Series,Processor Model,RAM Type,RAM Memory,Internal Memory Type SSD,Internal Memory Type HDD,Graphics Card Manufacturer,Dedicated Graphics Memory,Graphics Card Model,manufacturer,org_price,store,Screen Resolution,Screen Type,Screen Size
+Intel,Corei7,1250U,DDR5,16,1024,0,Intel,4,Intel Iris Xe,asus,201999000,meghdad,2560*1920,FOLED,17.3
+Intel,Corei5,1135G7,DDR4,32,512,1024,Nvidia,2,MX350 GDDR5,dell,34990000,meghdad,768 * 1366,HD,15.6
+Intel,Corei5,1135G7,DDR4,16,512,1024,Nvidia,2,MX350 GDDR5,dell,32750000,meghdad,768 * 1366,HD,15.6
+Intel,Corei5,11400H,DDR4,32,512,0,Nvidia,4,GeForce RTX3050,asus,45289000,meghdad,1080 * 1920 ,IPS,15.6
+Apple,M2,M2 8 Cores,Unified,8,0,0,Apple,4,Integrated10Cores,apple,74490000,digikala,,IPS,
+Intel,Corei5,1235U,DDR4,8,256,0,Nvidia,2,GeForce MX۵۵۰,lenovo,41000000,meghdad,1080 * 1920 ,IPS,14
+Intel,Corei7,12700H,DDR5,16,0,0,Nvidia,4,GeForceRTX3060,asus,69982220,digikala,,IPS,
+Intel,Corei7,12700H,DDR5,32,0,0,Nvidia,4,GeForceRTX3070GDDR6,lenovo,85800000,digikala,,IPS,
+Intel,Corei7,1260P,DDR4,16,512,0,Nvidia,4,RTX 3050,acer,40800000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,1355U,DDR4,16,0,0,Intel,4,IrisXe,msi,46225000,digikala,,IPS,
+Intel,Corei7,11370H,DDR4,8,0,0,Nvidia,4,GeForceGTX1650,lenovo,40950000,digikala,,IPS,
+Intel,Corei5,1235U,DDR4,8,0,0,Nvidia,4,GeForceMX550,lenovo,42195000,digikala,,IPS,
+Intel,Corei5,12500H,DDR4,8,512,0,Nvidia,4,GeForce RTX3050,asus,45809000,meghdad,1080 * 1920 ,IPS,15.6
+AMD,Ryzen5,5600H,DDR4,16,0,0,AMD,4,RadeonGraphics,asus,32600000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,16,0,0,Intel,4,IrisXe,asus,33100000,digikala,,IPS,
+Intel,Corei7,12700H,DDR4,16,512,0,Nvidia,8,Geforce RTX4060 GDDR6 ,asus,66249000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,12500H,DDR4,16,512,0,Nvidia,4,GeForce RTX3050,asus,46324000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,11300H,DDR4,16,256,1024,Nvidia,4,NVIDIA Geforce GTX 1650,lenovo,36000000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,11400H,DDR4,16,1024,0,Nvidia,4,GeForce RTX3050,asus,44789000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,13700H,DDR4,16,0,0,Nvidia,4,GeForceRTX4050,asus,69400000,digikala,,IPS,
+Intel,Corei7,12650H,DDR4,16,0,0,Nvidia,4,GeForceRTX3060,lenovo,57260000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,8,0,0,Nvidia,4,GeForceMX550,lenovo,47999000,digikala,,IPS,
+Intel,Corei5,13420H,DDR4,16,512,0,Nvidia,6,RTX 3050,hp,42500000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,11300H,DDR4,32,256,1024,Nvidia,4,NVIDIA Geforce GTX 1650,lenovo,38000000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,11800H,DDR4,32,1024,0,Nvidia,8,GeForce RTX 3070 GDDR6,hp,62190000,meghdad,1080 * 1920 ,IPS,16
+Intel,Corei7,11800H,DDR4,16,1024,0,Nvidia,8,GeForce RTX 3070 GDDR6,hp,60900000,meghdad,1080 * 1920 ,IPS,16
+AMD,Ryzen5,5500U,DDR4,8,0,0,AMD,4,RADEONRXVEGA7,asus,33900000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,32,512,0,Nvidia,4,GeForce RTX2050,asus,39519000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,1235U,DDR4,16,0,0,Intel,4,IrisXe,asus,30100000,digikala,,IPS,
+Intel,Corei7,11370H,DDR4,32,0,0,Nvidia,4,GeForceGTX1650,lenovo,46200000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,24,0,0,AMD,4,RadeonGraphics,asus,33600000,digikala,,IPS,
+AMD,Ryzen3,7320U,DDR5,4,0,0,AMD,4,RadeonGraphics,asus,19780000,digikala,,IPS,
+Intel,Corei7,12700H,DDR5,16,0,0,Nvidia,4,GeForceRTX3060,asus,69982220,digikala,,IPS,
+Intel,Corei7,12650H/BGA,DDR5,24,0,0,Nvidia,4,GeForceRTX3050,asus,62790000,digikala,,IPS,
+Intel,Corei7,12650H,DDR5,32,0,0,Nvidia,4,GeForceRTX3070,asus,70950000,digikala,,IPS,
+AMD,Ryzen7,6800H,DDR5,16,0,0,Nvidia,4,GeForceRTX3060,lenovo,62999000,digikala,,IPS,
+AMD,Ryzen7,6800H,DDR5,16,0,0,Nvidia,4,GeForceRTX3060GDDR6,asus,64000000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,24,0,0,AMD,4,RadeonGraphics,asus,31000000,digikala,,IPS,
+AMD,Ryzen7,5800H,DDR4,16,0,0,AMD,4,RadeonGraphics,asus,33470000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,64,0,0,Nvidia,4,GeForceRTX4060,lenovo,83050000,digikala,,IPS,
+Intel,Corei7,1165G7,DDR4,16,0,0,Nvidia,4,GeForceMX450,lenovo,36500000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,8,0,0,Intel,4,IrisXe,asus,31769000,digikala,,IPS,
+Intel,Corei7,12700H,DDR5,32,0,0,Nvidia,4,GeForceRTX3070GDDR6,lenovo,89950000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,16,0,0,Nvidia,4,GeForceRTX4060,lenovo,58700000,digikala,,IPS,
+Intel,Corei7,13700H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050,hp,59990000,digikala,,IPS,
+Intel,Corei5,12450H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050,acer,40949000,digikala,,IPS,
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,asus,19490000,digikala,,IPS,
+Intel,Corei5,10300H,DDR4,16,0,0,Nvidia,4,GeForceGTX1650,asus,37000000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,32,0,0,Nvidia,4,GeForceRTX4050,lenovo,63000000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,64,0,0,Nvidia,4,GeForceRTX4060,lenovo,80900000,digikala,,IPS,
+Intel,Corei7,12650H,DDR4,16,0,0,Nvidia,4,GeForceRTX3060,lenovo,52999000,digikala,,IPS,
+Intel,Corei5,11300H,DDR4,8,0,0,Nvidia,4,GeForce RTX 3050,asus,36900000,digikala,,IPS,
+Intel,Corei7,12650H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050,lenovo,48500000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,16,0,0,Intel,4,IrisXe,asus,31550000,digikala,,IPS,
+Intel,Corei5,1135G7,DDR4,8,0,0,Nvidia,4,GeForceMX350,asus,32500000,digikala,,IPS,
+Intel,Corei5,1035G1,DDR4,12,0,0,Intel,4,UHDGraphics,asus,28421000,digikala,,IPS,
+Intel,Corei5,11320H,DDR4,8,0,0,Nvidia,4,GeForceGTX1650,lenovo,35000000,digikala,,IPS,
+AMD,Ryzen7,6800H,DDR5,16,0,0,Nvidia,4,GeForceRTX3050,asus,54300000,digikala,,IPS,
+Apple,M2,M2 8 Cores,Unified,8,0,0,Apple,4,Integrated10Cores,apple,79150000,digikala,,IPS,
+Intel,Corei7,13700H,DDR4,16,0,0,Intel,4,UHDGraphics,asus,47040000,digikala,,IPS,
+Apple,M2,8 Core,Unified,8,0,0,Apple,4,10CoreApple-designedintegratedGPU,apple,73990000,digikala,,IPS,
+Apple,M2Pro,M2 Pro,unified memory,16,1024,0,Apple,4,دارای 19 هسته پردازش گرافیکی,apple,127000000,meghdad,3024*1964,IPS,14.2
+Apple,M2Pro,M2 Pro,unified memory,16,512,0,Apple,4,دارای 16 هسته پردازش گرافیکی,apple,104900000,meghdad,3024*1964,IPS,14.2
+Apple,M2Pro,M2 Pro,unified memory,16,1024,0,Apple,4,دارای 19 هسته پردازش گرافیکی,apple,125500000,meghdad,3024*1964,IPS,14.2
+Apple,M2Pro,M2 Pro,unified memory,16,512,0,Apple,4,دارای 16 هسته پردازش گرافیکی,apple,104500000,meghdad,3024*1964,IPS,14.2
+Intel,Corei5,11300H,DDR4,8,256,0,Nvidia,4,NVIDIA Geforce GTX 1650,lenovo,34000000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,1235U,DDR4,16,0,0,Intel,4,IrisXe,asus,36680000,digikala,,IPS,
+AMD,Ryzen7,5800H,DDR4,16,0,0,Nvidia,4,GeForceRTX3070,lenovo,58800000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,40,0,0,Nvidia,4,GeForceRTX2050,asus,46300000,digikala,,IPS,
+Intel,Corei7,1165G7,DDR4,16,0,0,Nvidia,4,GeforceMX450,lenovo,37400000,digikala,,IPS,
+Intel,Corei5,10300H,DDR4,16,0,0,Nvidia,4,GeForceGTX1650,asus,37000000,digikala,,IPS,
+Intel,Corei7,13700H,DDR4,16,0,0,Intel,4,UHDGraphics,asus,48000000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,8,512,0,Nvidia,2,MX570 GDDR6,hp,39550000,meghdad,768 * 1366,IPS,15.6
+Intel,Corei7,1255U,DDR4,16,1024,0,Nvidia,2,MX570 GDDR6,hp,41750000,meghdad,768 * 1366,IPS,15.6
+Intel,Corei7,11800H,DDR4,16,0,0,Nvidia,4,GeForceRTX3070LaptopGPU,hp,59490000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,32,0,0,Intel,4,IrisXe,hp,57190000,digikala,,IPS,
+Intel,Corei5,12500H,DDR4,16,0,0,Nvidia,4,GeforceRTX3050GDDR6,hp,44000000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,24,0,0,Intel,4,IrisXeGraphics,lenovo,32890000,digikala,,IPS,
+Intel,Corei5,13420H,DDR4,8,512,0,Nvidia,6,RTX 3050,hp,41800000,meghdad,1080 * 1920 ,IPS,15.6
+Apple,M2Pro,M2 Pro,unified memory,16,1024,0,Apple,4,دارای 19 هسته پردازش گرافیکی,apple,129000000,meghdad,3456*2234,IPS,16.2
+Intel,Corei5,12450H,DDR5,16,0,0,Nvidia,4,GeForceRTX4050,msi,53900000,digikala,,IPS,
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,asus,23426700,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,16,0,0,Nvidia,4,GeForceRTX4050,msi,67000000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,64,0,0,Nvidia,4,GeForceRTX4050,lenovo,74400000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,8,0,0,Nvidia,4,GeForceMX550,lenovo,49300000,digikala,,IPS,
+Intel,Corei9,12900HX,DDR5,32,0,0,Nvidia,4,GeForceRTX3080Ti,lenovo,153220000,digikala,,IPS,
+Intel,Corei7,1260P,DDR5,32,0,0,Intel,4,IrisXe,asus,56250000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,16,0,0,Nvidia,4,GeForceMX570AGDDR6LaptopGPU,hp,37490000,digikala,,IPS,
+Intel,Corei5,12450H,DDR5,8,0,0,Nvidia,4,GeForceRTX2050,msi,47650000,digikala,,IPS,
+Intel,Corei9,13900H,DDR4,16,0,0,Nvidia,4,GeForceRTX4060,asus,78999000,digikala,,IPS,
+Intel,Corei5,1135G7,DDR4,8,0,0,Nvidia,4,GeForceMX350,asus,32500000,digikala,,IPS,
+Intel,Corei9,13980HX,DDR5,64,0,0,Nvidia,4,GeForceRTX4090,msi,279900000,digikala,,IPS,
+Intel,Corei7,12650H,DDR5,16,0,0,Nvidia,4,GeForceRTX4070,msi,86885000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,8,512,0,Nvidia,4,GeForce RTX3050,asus,42249000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,12700H,DDR5,32,0,0,Nvidia,4,GeForceRTX3060,lenovo,70900000,digikala,,IPS,
+Intel,Corei7,12700H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050Ti,lenovo,51350000,digikala,,IPS,
+Apple,M2Pro,M2 Pro,unified memory,16,512,0,Apple,4,دارای 19 هسته پردازش گرافیکی,apple,113000000,meghdad,3456*2234,IPS,16.2
+Intel,Corei3,I3 1115G4,DDR4,4,512,0,Nvidia,2,MX450,lenovo,16200000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,11400H,DDR4,16,512,0,Nvidia,4,GeForce RTX2050,asus,37814000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,1355U,DDR4,16,1024,0,Intel,4,Iris Xe Graphics,hp,60400000,meghdad,1080 * 1920 ,IPS,14
+AMD,Ryzen7,6800H,DDR5,16,1024,0,Nvidia,4,GeForce RTX3050,asus,49789000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,13620H,DDR5,16,0,0,Intel,4,GeForceRTX4050,msi,72900000,digikala,,IPS,
+Intel,Corei7,1355U,DDR4,16,1024,0,Intel,4,Iris Xe Graphics,hp,81600000,meghdad,1080 * 1920 ,IPS,13.5
+Intel,Corei3,I3 1115G4,DDR4,4,256,0,Nvidia,2,MX450,lenovo,15650000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei3,I3 1115G4,DDR4,4,256,0,Nvidia,2,MX450,lenovo,19650000,meghdad,1080 * 1920 ,IPS,15.6
+AMD,Ryzen5,5600H,DDR4,8,0,0,AMD,4,RadeonGraphics,asus,27000000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,8,0,0,AMD,4,RadeonGraphics,asus,28750000,digikala,,IPS,
+AMD,Ryzen9,7940HS,DDR5,32,0,0,Nvidia,4,GeForceRTX4070,asus,92900000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,24,0,0,Nvidia,4,GeForceRTX2050,asus,45280000,digikala,,IPS,
+AMD,Ryzen7,4800H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050Ti,asus,59900000,digikala,,IPS,
+Intel,Corei9,13900H,DDR5,32,0,0,Nvidia,4,GeForceRTX4060,hp,109290000,digikala,,IPS,
+AMD,Ryzen9,6900HX,DDR5,16,0,0,Nvidia,4,GeForceRTX3060GDDR6,asus,74440400,digikala,,IPS,
+AMD,Ryzen7,6800H,DDR5,32,0,0,Nvidia,4,GeForceRTX3070Ti,asus,70690000,digikala,,IPS,
+AMD,Ryzen5,7520U,DDR5,8,0,0,AMD,4,RADEON610M,hp,23900000,digikala,,IPS,
+AMD,Ryzen7,6800HS,DDR5,16,0,0,Nvidia,4,GeForceRTX3070Ti,asus,65500000,digikala,,IPS,
+AMD,Ryzen3,7320U,DDR5,4,0,0,AMD,4,RadeonGraphics,asus,18400000,digikala,,IPS,
+AMD,Ryzen9,7940HS,DDR5,32,0,0,Nvidia,4,GeForceRTX4070,asus,92900000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,8,0,0,Nvidia,4,GeForceRTX2050,asus,42680000,digikala,,IPS,
+Intel,Corei7,1355U,LPDDR5,16,0,0,Intel,4,IntegratedIntelIrisXeGraphics,lenovo,62950000,digikala,,IPS,
+Intel,Corei7,12700H,DDR4,8,0,0,Nvidia,4,GeForceRTX3050TI,lenovo,50400000,digikala,,IPS,
+Intel,Corei5,1135G7,DDR4,8,0,0,Nvidia,4,GeForceMX450,lenovo,29925000,digikala,,IPS,
+Intel,Corei3,1115G4,DDR4,4,0,0,Nvidia,4,GeForceMX330,asus,19780000,digikala,,IPS,
+Intel,Corei7,13700H,DDR5,16,0,0,Nvidia,4,GEFORCERTX4060GDDR6,lenovo,75999000,digikala,,IPS,
+Intel,Corei9,12900H,DDR4,16,0,0,Nvidia,4,GeForceRTX3070Ti,asus,115500000,digikala,,IPS,
+AMD,Ryzen9,6900HX,DDR5,32,1024,0,Nvidia,6,Geforce RTX 3060,asus,69514000,meghdad,1080 * 1920 ,IPS,17.3
+Intel,Corei7,13650HX,DDR5,16,0,0,Nvidia,4,GeForceRTX4060,asus,79091200,digikala,,IPS,
+AMD,Ryzen7,5800H,DDR4,8,0,0,AMD,4,RadeonGraphics,asus,31590000,digikala,,IPS,
+Intel,Corei3,1215U,DDR4,4,0,0,Intel,4,IntelUHDGraphics,asus,20940000,digikala,,IPS,
+AMD,Ryzen7,5800H,DDR4,16,0,0,Nvidia,4,GeForceRTX3070,lenovo,57500000,digikala,,IPS,
+AMD,Ryzen3,7320U,DDR5,4,0,0,AMD,4,RadeonGraphics,asus,17480000,digikala,,IPS,
+AMD,Ryzen7,7735HS,DDR5,16,0,0,Nvidia,4,GeForceRTX4060,asus,73350000,digikala,,IPS,
+AMD,Ryzen7,6800H,DDR5,32,0,0,Nvidia,4,GeForceRTX3060,hp,61000000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,64,0,0,Nvidia,4,GeForceRTX4060,lenovo,86950000,digikala,,IPS,
+AMD,Ryzen9,6900HX,DDR5,32,2048,0,Nvidia,6,Geforce RTX 3060,asus,72014000,meghdad,1080 * 1920 ,IPS,17.3
+AMD,Ryzen5,5600H,DDR4,24,0,0,AMD,4,RadeonGraphics,asus,32040000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,16,0,0,AMD,4,RadeonGraphics,asus,30900000,digikala,,IPS,
+AMD,Ryzen7,6800H,DDR5,16,0,0,Nvidia,4,GeForceRTX3060,hp,57300000,digikala,,IPS,
+Intel,Corei3,1115G4,DDR4,4,0,0,Nvidia,4,GeForceMX450,lenovo,15900000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,32,0,0,Nvidia,4,GeForceRTX4050,lenovo,66000000,digikala,,IPS,
+Intel,Corei9,13980HX,DDR5,16,0,0,Nvidia,4,GeForceRTX4080,asus,175280000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,16,0,0,AMD,4,RadeonGraphics,asus,30900000,digikala,,IPS,
+Intel,Corei7,13700H,DDR4,16,0,0,Intel,4,UHDGraphics,asus,48000000,digikala,,IPS,
+Intel,Corei7,12700H,DDR4,16,0,0,Nvidia,4,GeforceRTX4050,asus,60900000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,12,0,0,AMD,4,RadeonGraphics,asus,32450000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,8,0,0,Nvidia,4,GeForceRTX3050,asus,44240000,digikala,,IPS,
+Intel,Corei5,1240P,DDR4,16,512,0,Nvidia,4,RTX 3050,acer,36990000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,1240P,DDR4,16,1024,0,Nvidia,4,RTX 3050,acer,38500000,meghdad,1080 * 1920 ,IPS,15.6
+AMD,Ryzen9,7845HX,DDR5,32,0,0,Nvidia,4,GeForceRTX4090,asus,199900000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,16,1024,0,Nvidia,4,GeForce RTX2050,asus,39249000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,12700H,DDR4,16,1024,0,Nvidia,8,Geforce RTX4060 GDDR6 ,asus,67514000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,1235U,DDR4,8,0,0,Nvidia,4,GeForceMX550,lenovo,42195000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,32,0,0,Nvidia,4,GeForceRTX4060,lenovo,82900000,digikala,,IPS,
+AMD,Ryzen7,5800H,DDR4,16,0,0,AMD,4,RadeonGraphics,asus,32530000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,16,0,0,AMD,4,RadeonGraphics,asus,31950000,digikala,,IPS,
+AMD,Ryzen5,7530U,DDR4,16,0,0,AMD,4,RadeonRXVEGA7,asus,30220000,digikala,,IPS,
+AMD,Ryzen7,7735HS,DDR5,32,0,0,Nvidia,4,GeForceRTX4060,asus,78500000,digikala,,IPS,
+Intel,Corei7,1355U,DDR4,8,512,0,Nvidia,4,GeForce MX550 GDDR6 - 2GB,hp,43200000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,1335U,DDR4,8,512,0,Nvidia,4,GeForce MX550 GDDR6 - 2GB,hp,36488000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,1335U,DDR4,8,1024,0,Nvidia,4,GeForce MX550 GDDR6 - 2GB,hp,38255000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,12700H,DDR5,8,0,0,Nvidia,4,GeForceRTX3050Ti,acer,54500000,digikala,,IPS,
+Intel,Corei7,1355U,DDR4,16,1024,0,Nvidia,4,GeForce MX550 GDDR6 - 2GB,hp,46600000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,1355U,DDR4,16,1024,0,Nvidia,4,GeForce RTX 3050 GDDR6 - 4GB,hp,70900000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,12500H,DDR5,8,0,0,Nvidia,4,GeForceGTX1650,hp,41400000,digikala,,IPS,
+Intel,Corei7,11370H,DDR4,16,0,0,Nvidia,4,GeForceGTX1650,lenovo,42990000,digikala,,IPS,
+Intel,Corei7,13700H,DDR4,16,0,0,Nvidia,4,GeForceRTX4050,asus,75000000,digikala,,IPS,
+Intel,Corei7,1355U,DDR4,16,0,0,Intel,4,IrisXe,asus,35200000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,32,0,0,Nvidia,4,GeForceRTX4060,lenovo,75900000,digikala,,IPS,
+Intel,Corei7,1355U,LPDDR4X,16,0,0,Intel,4,IrisXe,hp,75190000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,8,0,0,Intel,4,IrisXeGraphics,lenovo,28400000,digikala,,IPS,
+Intel,Corei7,12700H,DDR5,32,0,0,Nvidia,4,GeForceRTX3070,lenovo,79800000,digikala,,IPS,
+Intel,Corei7,12650H,DDR5,16,0,0,Nvidia,4,GeForceRTX4070,msi,89990000,digikala,,IPS,
+Intel,Corei7,11370H,DDR4,8,0,0,Nvidia,4,GeForceGTX1650,lenovo,42650000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,16,0,0,AMD,4,RadeonGraphics,asus,30100000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,32,0,0,Nvidia,4,GeForceRTX2050,asus,44950000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,16,0,0,AMD,4,RadeonGraphics,asus,31950000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,8,0,0,Nvidia,4,GeForceRTX2050,asus,41300000,digikala,,IPS,
+Intel,Corei9,13900H,DDR4,16,0,0,Nvidia,4,GeForceRTX4060,asus,84900000,digikala,,IPS,
+Intel,Corei7,12700H,DDR5,16,0,0,Nvidia,4,"RTX3050Ti,GDDR6",msi,61990000,digikala,,IPS,
+Intel,Corei9,13900H,DDR5,32,0,0,Nvidia,4,GeForceRTX4060,hp,103930000,digikala,,IPS,
+Intel,Corei5,12500H,DDR4,8,0,0,Nvidia,4,GeforceRTX3050GDDR6,hp,43000000,digikala,,IPS,
+Intel,Corei7,1355U,LPDDR4X,16,0,0,Intel,4,IrisXe,hp,75190000,digikala,,IPS,
+Apple,M2,"M2 chip with 8‑core CPU, 10‑core GPU, 16‑core Neural Engine",unified memory,8,512,0,Apple,4,10core GPU16-core Neural Engine100GB/s memory bandwidth,apple,75000000,meghdad,1600 * 2560,IPS,13.3
+Intel,Corei5,1035G1,DDR4,20,0,0,Intel,4,UHDGraphics,asus,30448300,digikala,,IPS,
+Intel,Corei5,13500H,DDR4,16,0,0,Intel,4,UHDGraphics,asus,38950000,digikala,,IPS,
+Intel,Corei7,11800H,DDR4,32,0,0,Nvidia,4,GeForceRTX3060LaptopGPU,hp,54490000,digikala,,IPS,
+Intel,Corei9,12900H,DDR5,16,0,0,Nvidia,4,GeForceRTX3060,asus,78735000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,32,0,0,Nvidia,4,GeForceRTX4060,lenovo,75900000,digikala,,IPS,
+Intel,Corei7,1260P,DDR4,16,0,0,Nvidia,4,GeForceRTX3050,acer,42099000,digikala,,IPS,
+Intel,Corei7,12650H,DDR5,16,0,0,Nvidia,4,GeForceRTX3070-8GBGDDR6,asus,70400000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,16,0,0,Nvidia,4,GEFORCERTX4050,lenovo,59200000,digikala,,IPS,
+Intel,Corei7,1260P,DDR4,16,0,0,Nvidia,4,GeForceRTX3050,acer,43799000,digikala,,IPS,
+Intel,Corei5,1240P,DDR4,8,0,0,Nvidia,4,GeForceRTX3050,acer,36950000,digikala,,IPS,
+Intel,Corei7,1165G7,DDR4,8,0,0,Nvidia,4,GeForceMX350,asus,36000000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,16,0,0,Nvidia,4,GeForceRTX4050,lenovo,53590000,digikala,,IPS,
+Intel,Corei7,13700HX,DDR5,16,0,0,Nvidia,4,GeForceRTX4070,acer,86790000,digikala,,IPS,
+Intel,Corei7,1280P,DDR5,16,1024,0,Intel,4,Intel® Iris® Xe,msi,68800000,meghdad,1080 * 1920 ,IPS,13.4
+Apple,M2,"M2 chip with 8‑core CPU, 10‑core GPU, 16‑core Neural Engine",unified memory,8,256,0,Apple,4,10core GPU16-core Neural Engine100GB/s memory bandwidth,apple,69000000,meghdad,1600 * 2560,IPS,13.3
+Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,unified memory,8,512,0,Apple,4,10 هسته ای,apple,73000000,meghdad,1600 * 2560,IPS,13.6
+Apple,M2,"M2 chip with 8‑core CPU, 10‑core GPU, 16‑core Neural Engine",unified memory,8,256,0,Apple,4,10core GPU16-core Neural Engine100GB/s memory bandwidth,apple,69000000,meghdad,1600 * 2560,IPS,13.3
+Apple,M2,"M2 chip with 8‑core CPU, 10‑core GPU, 16‑core Neural Engine",unified memory,8,512,0,Apple,4,10core GPU16-core Neural Engine100GB/s memory bandwidth,apple,75000000,meghdad,1600 * 2560,IPS,13.3
+Intel,Corei3,I3 1115G4,DDR4,8,256,0,Nvidia,2,MX450,lenovo,20250000,meghdad,1080 * 1920 ,IPS,15.6
+Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,unified memory,8,512,0,Apple,4,10 هسته ای,apple,74300000,meghdad,1600 * 2560,IPS,13.6
+Intel,Corei7,12700H,DDR5,16,0,0,Nvidia,4,GeForceRTX3060,asus,69982220,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,8,0,0,Nvidia,4,GeForceRTX2050,asus,39370000,digikala,,IPS,
+Intel,Corei7,1355U,DDR4,8,1024,0,Nvidia,4,GeForce MX550 GDDR6 - 2GB,hp,44950000,meghdad,1080 * 1920 ,IPS,15.6
+Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,unified memory,8,512,0,Apple,4,10 هسته ای,apple,73300000,meghdad,1600 * 2560,IPS,13.6
+Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,unified memory,8,512,0,Apple,4,10 هسته ای,apple,73388000,meghdad,1600 * 2560,IPS,13.6
+Intel,Corei9,12900H,DDR4,16,0,0,Nvidia,4,GeForceRTX3070Ti,msi,94650000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,32,0,0,Nvidia,4,GeForceRTX4060,lenovo,76900000,digikala,,IPS,
+Intel,Corei5,12450H,DDR4,8,0,0,Nvidia,4,GeForceRTX4050,msi,51990000,digikala,,IPS,
+Intel,Corei5,13500H,DDR4,32,0,0,Intel,4,UHDGraphics,asus,40375000,digikala,,IPS,
+AMD,Ryzen7,6800H,DDR5,32,0,0,Nvidia,4,GeForceRTX3070Ti,asus,70690000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,8,0,0,AMD,4,RadeonGraphics,asus,28100000,digikala,,IPS,
+Intel,Corei5,13420H,DDR4,8,0,0,Nvidia,4,GeForceRTX3050,hp,42840000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,16,0,0,Nvidia,4,GeForceMX550,lenovo,49690000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,16,0,0,Nvidia,4,GeForceRTX4050,lenovo,55200000,digikala,,IPS,
+Intel,Corei7,11800H,DDR4,16,0,0,Nvidia,4,GeForceRTX2050,msi,44950000,digikala,,IPS,
+Intel,Corei5,12500H,DDR4,32,0,0,Nvidia,4,GeForceGTX1650,hp,42000000,digikala,,IPS,
+Intel,Corei7,12700H,DDR5,16,0,0,Nvidia,4,GeforceRTX3060GDDR6,asus,71900000,digikala,,IPS,
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,asus,21794800,digikala,,IPS,
+AMD,Ryzen7,6800H,DDR5,16,0,0,Nvidia,4,GeForceRTX3050,asus,56950000,digikala,,IPS,
+Intel,Corei7,12700H,DDR4,32,1024,0,Nvidia,8,Geforce RTX4060 GDDR6 ,asus,71864000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,1260P,DDR4,16,1024,0,Nvidia,4,RTX 3050,acer,42900000,meghdad,1080 * 1920 ,IPS,15.6
+AMD,Ryzen7,5800H,DDR4,8,0,0,AMD,4,RadeonGraphics,asus,32530000,digikala,,IPS,
+AMD,Ryzen7,6800H,DDR5,16,0,0,Nvidia,4,GeForceRTX3050,asus,54000000,digikala,,IPS,
+AMD,Ryzen7,5800H,DDR4,32,1024,0,AMD,8,Radeon RX6600M GDD6,hp,49000000,meghdad,1080 * 1920 ,IPS,16
+AMD,Ryzen5,5600H,DDR4,16,0,0,AMD,4,RadeonGraphics,asus,28400000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,16,0,0,AMD,4,RadeonGraphics,asus,30900000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050,acer,49500000,digikala,,IPS,
+AMD,Ryzen7,6800H,DDR5,16,0,0,Nvidia,4,GeForceRTX3060GDDR6,asus,64000000,digikala,,IPS,
+Intel,Corei5,13500H,DDR4,16,0,0,Intel,4,UHDGraphics,asus,38000000,digikala,,IPS,
+AMD,Ryzen7,6800H,DDR5,8,1024,0,Nvidia,4,GeForce RTX3050,asus,48749000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei9,13900H,DDR5,16,0,0,Nvidia,4,GeForceRTX4060,hp,98780000,digikala,,IPS,
+Intel,Corei7,12650H,DDR4,16,0,0,Nvidia,4,GeForceRTX3060,lenovo,57260000,digikala,,IPS,
+Intel,Corei9,13900H,DDR5,16,0,0,Nvidia,4,GeForceRTX4060,hp,98780000,digikala,,IPS,
+Intel,Corei7,12700H,DDR5,32,0,0,Nvidia,4,GeForceRTX3060,lenovo,82000000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,64,0,0,Nvidia,4,GeForceRTX4050,lenovo,74400000,digikala,,IPS,
+AMD,Ryzen3,7320U,DDR5,4,0,0,AMD,4,RadeonGraphics,asus,19780000,digikala,,IPS,
+AMD,Ryzen7,5800H,DDR4,24,0,0,AMD,4,RadeonGraphics,asus,34800000,digikala,,IPS,
+Intel,Corei7,11370H,DDR4,16,0,0,Nvidia,4,GeForceGTX1650,lenovo,44700000,digikala,,IPS,
+Intel,Corei5,13420H,DDR4,16,0,0,Nvidia,4,GeForceRTX2050,hp,40400000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,16,0,0,Nvidia,4,GeForceRTX4060,lenovo,68850000,digikala,,IPS,
+Intel,Corei7,12650H,DDR4,16,0,0,Nvidia,4,GeForceRTX3060,lenovo,57090000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,16,0,0,Nvidia,4,GeForceRTX4060,lenovo,66750000,digikala,,IPS,
+Intel,Corei7,12650H,DDR4,16,0,0,Nvidia,4,GEFORCERTX3060,lenovo,57950000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,16,0,0,Nvidia,4,GeForceRTX4050,lenovo,59100000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,24,0,0,AMD,4,RadeonGraphics,asus,37000000,digikala,,IPS,
+Intel,Corei7,13700HX,DDR5,16,0,0,Nvidia,4,GeForceRTX4070,acer,88199000,digikala,,IPS,
+Intel,Corei5,13420H,DDR4,8,0,0,Nvidia,4,GeForceRTX3050,hp,42840000,digikala,,IPS,
+Intel,Corei7,12700H,DDR4,16,0,0,Nvidia,4,GeForceRTX4060GDDR6,asus,74900000,digikala,,IPS,
+Intel,Corei3,1115G4,DDR4,16,0,0,Intel,4,UHDGraphics,asus,23174800,digikala,,IPS,
+Intel,Corei7,13700HX,DDR5,16,0,0,Nvidia,4,GeForceRTX4060,lenovo,88000000,digikala,,IPS,
+Intel,Corei5,1135G7,DDR4,8,0,0,Intel,4,IrisXe,lenovo,37700000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,16,0,0,AMD,4,RadeonGraphics,asus,32678400,digikala,,IPS,
+AMD,Ryzen7,5700U,DDR4,8,0,0,Nvidia,4,GeForceMX450,asus,45675000,digikala,,IPS,
+AMD,Ryzen7,4800H,DDR4,24,0,0,Nvidia,4,GeForceRTX3050TI,asus,61600000,digikala,,IPS,
+Intel,Corei7,13700H,DDR4,16,0,0,Intel,4,UHDGraphics,asus,48000000,digikala,,IPS,
+AMD,Ryzen5,5500U,DDR4,16,0,0,AMD,4,RadeonGraphics,hp,26460000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050Ti,lenovo,43690000,digikala,,IPS,
+Apple,M2,8 Core,DDR4,8,0,0,Apple,4,10Core,apple,65890000,digikala,,IPS,
+Apple,M2,M2 8 Cores,Unified,8,0,0,Apple,4,M2Integrated-10Cores,apple,65450000,digikala,,IPS,
+AMD,Ryzen7,5800H,DDR4,32,0,0,Nvidia,4,GeForceRTX3070,lenovo,63000000,digikala,,IPS,
+AMD,Ryzen7,5800H,DDR4,16,0,0,AMD,4,RadeonRX6600MGDD6,hp,45990000,digikala,,IPS,
+Intel,Corei5,12500H,DDR4,32,1024,0,Nvidia,4,GeForce RTX3050,asus,49809000,meghdad,1080 * 1920 ,IPS,15.6
+Apple,M2,8 Core,Unified,8,0,0,Apple,4,10CoreApple-designedintegrated,apple,66490000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,8,0,0,AMD,4,RadeonGraphics,asus,28860000,digikala,,IPS,
+Apple,M2,M2 8 Cores,Unified,8,0,0,Apple,4,Integrated10Cores,apple,64290000,digikala,,IPS,
+AMD,Ryzen7,5800H,DDR4,16,1024,0,AMD,8,Radeon RX6600M GDD6,hp,47000000,meghdad,1080 * 1920 ,IPS,16
+AMD,Ryzen9,6900HX,DDR5,32,0,0,Nvidia,4,GeForceRTX3060,asus,78990000,digikala,,IPS,
+Apple,M2,M2 8 Cores,Unified,8,0,0,Apple,4,Integrated10Cores,apple,74490000,digikala,,IPS,
+Intel,Corei5,1035G1,DDR4,12,0,0,Intel,4,UHDGraphics,asus,29610000,digikala,,IPS,
+Intel,Corei5,12500H,DDR4,32,2048,0,Nvidia,4,GeForce RTX3050,asus,52449000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Ryzen7,R7 6800H,DDR4,16,0,0,Intel,4,RTX3060,acer,57800000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,16,512,0,Nvidia,2,Nvida MX 550,dell,78900000,meghdad,1200*1920,IPS,14
+Intel,Corei3,1215U,DDR4,8,0,0,Intel,4,UHDGraphics,asus,21200000,digikala,,IPS,
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,asus,21794800,digikala,,IPS,
+Intel,Corei7,12700H,DDR4,16,0,0,Nvidia,4,GeForceRTX3070,asus,94500000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,40,0,0,Nvidia,4,GeForceRTX2050,asus,46000000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,32,1024,0,Nvidia,4,GeForce RTX3050,asus,47474000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,12650H/BGA,DDR5,24,0,0,Nvidia,4,GeForceRTX3050,asus,62790000,digikala,,IPS,
+Intel,Corei5,10300H,DDR4,8,0,0,Nvidia,4,GeForceGTX1650,asus,36000000,digikala,,IPS,
+Intel,Corei7,12650H,DDR4,16,1024,0,Nvidia,4,RTX 3050 GDDR6,lenovo,48710000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,12650H,DDR4,32,1024,0,Nvidia,4,RTX 3050 GDDR6,lenovo,50750000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,1240P,DDR4,8,512,0,Nvidia,4,RTX 3050,acer,35900000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,1165G7,DDR4,8,0,0,Nvidia,4,GeForceMX330,asus,34695000,digikala,,IPS,
+AMD,Ryzen9,6900HX,DDR5,32,0,0,Nvidia,4,GeForceRTX3060,asus,81500000,digikala,,IPS,
+Apple,M2Pro,M2 Pro,unified memory,16,1024,0,Apple,4,دارای 19 هسته پردازش گرافیکی,apple,128000000,meghdad,3456*2234,IPS,16.2
+Apple,M2Pro,M2 Pro,unified memory,16,512,0,Apple,4,دارای 19 هسته پردازش گرافیکی,apple,119000000,meghdad,3456*2234,IPS,16.2
+Intel,Corei7,12650H,DDR4,16,512,0,Nvidia,4,RTX 3050 GDDR6,lenovo,47230000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,1235U,DDR4,16,512,0,Nvidia,2,GeForce MX۵۵۰,lenovo,44700000,meghdad,1080 * 1920 ,IPS,14
+Intel,Corei9,13980HX,DDR5,16,1024,0,Nvidia,12,GEFORCE RTX 4080,asus,170200000,meghdad,1600 * 2560,IPS,18
+AMD,Ryzen7,6800H,DDR5,32,1024,0,Nvidia,4,GeForce RTX3050,asus,54849000,meghdad,1080 * 1920 ,IPS,15.6
+AMD,Ryzen7,6800H,DDR5,32,0,0,Nvidia,4,GeForceRTX3060,hp,61000000,digikala,,IPS,
+AMD,Ryzen7,5800H,DDR4,16,0,0,Nvidia,4,"GeForceRTX3050Ti,4GBGDDR6",hp,49900000,digikala,,IPS,
+AMD,Ryzen9,6900HX,DDR5,16,0,0,Nvidia,4,GeForceRTX3060,asus,68299000,digikala,,IPS,
+AMD,Ryzen7,6800H,DDR5,16,0,0,Nvidia,4,GeForceRTX3060,lenovo,60899000,digikala,,IPS,
+AMD,Ryzen7,5800H,DDR4,16,0,0,Nvidia,4,GeForceRTX3070,lenovo,58800000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,8,512,0,Nvidia,4,GeForce RTX2050,asus,36749000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,11800H,DDR4,32,1024,0,Nvidia,6,GeForce RTX 3060 GDDR6,hp,55700000,meghdad,1080 * 1920 ,IPS,16
+Intel,Corei5,12500H,DDR4,16,1024,0,Nvidia,4,GeForce RTX3050,asus,47834000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,11800H,DDR4,16,1024,0,Nvidia,6,GeForce RTX 3060 GDDR6,hp,53600000,meghdad,1080 * 1920 ,IPS,16
+Intel,Corei5,11400H,DDR4,32,0,0,Nvidia,4,GeForceRTX2050,asus,44100000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,12,0,0,Nvidia,4,GeForceRTX2050,asus,40300000,digikala,,IPS,
+Intel,Corei3,I3 1115G4,DDR4,4,1024,0,Nvidia,2,MX450,lenovo,17180000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,11400H,DDR4,8,0,0,Nvidia,4,GeForceRTX2050,asus,42680000,digikala,,IPS,
+AMD,Ryzen7,5800H,DDR4,32,0,0,AMD,4,RadeonRX6600MGDD6,hp,47990000,digikala,,IPS,
+Intel,Corei9,13980HX,DDR5,32,1024,0,Nvidia,12,GEFORCE RTX 4080,asus,175200000,meghdad,1600 * 2560,IPS,18
+Intel,Corei7,1255U,DDR4,8,0,0,Intel,4,UHDGraphics,asus,29970000,digikala,,IPS,
+AMD,Ryzen9,7940HS,DDR5,16,0,0,Nvidia,4,GeForceRTX4070,asus,86000000,digikala,,IPS,
+AMD,Ryzen7,7730U,DDR4,8,0,0,AMD,4,RadeonGraphics,lenovo,25100000,digikala,,IPS,
+Intel,Corei7,13700H,DDR4,8,0,0,Intel,4,UHDGraphics,asus,46080000,digikala,,IPS,
+Intel,Corei7,12650H,DDR5,16,0,0,Nvidia,4,GeForceRTX3060,asus,71500000,digikala,,IPS,
+Intel,Corei5,13500H,DDR4,8,0,0,Intel,4,UHDGraphics,asus,37050000,digikala,,IPS,
+Intel,Corei7,12700H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050Ti,lenovo,51350000,digikala,,IPS,
+Intel,Corei5,1035G1,DDR4,20,0,0,Intel,4,UHDGraphics,asus,27800000,digikala,,IPS,
+Intel,Corei7,13700H,DDR4,8,0,0,Nvidia,4,GeForceRTX3050,hp,57000000,digikala,,IPS,
+Intel,Corei7,1280P,LPDDR5,16,0,0,Intel,4,IrisXeGraphics80(AlderLake),msi,91950000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,16,0,0,Nvidia,4,GeForceRTX4060,lenovo,72930000,digikala,,IPS,
+Intel,Corei5,1135G7,DDR4,8,0,0,Intel,4,IrisXeGraphics,xpg,40000000,digikala,,IPS,
+Intel,Corei5,1335U,DDR4,8,0,0,Intel,4,IrisXe,msi,37380000,digikala,,IPS,
+Intel,Corei5,12450H,DDR5,16,0,0,Nvidia,4,GeForceRTX4050,msi,53900000,digikala,,IPS,
+Intel,Corei7,1360P,LPDDR5,32,0,0,Nvidia,4,GeForceRTX4060,msi,106950000,digikala,,IPS,
+Intel,Corei5,1235U,DDR4,8,0,0,Intel,4,IrisXe,hp,43130000,digikala,,IPS,
+Intel,Corei5,1135G7,DDR4,8,0,0,Intel,4,IrisXe,huawie,22599000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,16,0,0,Nvidia,4,GeForceRTX2050,asus,38180000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,32,0,0,Nvidia,4,GeForceRTX4050,lenovo,58900000,digikala,,IPS,
+Intel,Corei7,12650H,DDR5,16,0,0,Nvidia,4,GeForceRTX4060,msi,66900000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,16,0,0,Intel,4,IrisXe,asus,34100000,digikala,,IPS,
+Intel,Corei7,12700H,DDR5,8,0,0,Nvidia,4,GeForceRTX3050Ti,acer,54500000,digikala,,IPS,
+Intel,Corei5,1035G1,DDR4,20,0,0,Intel,4,UHDGraphics,asus,29596000,digikala,,IPS,
+Intel,Corei7,12650H,DDR5,16,0,0,Nvidia,4,GeForceRTX3060,asus,71500000,digikala,,IPS,
+Intel,Corei9,13900H,DDR5,32,0,0,Nvidia,4,GeForceRTX4060,hp,109290000,digikala,,IPS,
+Intel,Corei7,1165G7,DDR4,16,0,0,Nvidia,4,GeForceMX350,asus,40000000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,16,0,0,Intel,4,IrisXe,lenovo,30970000,digikala,,IPS,
+Intel,Corei7,11800H,DDR4,32,0,0,Nvidia,4,GeForceRTX3070LaptopGPU,hp,60990000,digikala,,IPS,
+Intel,Corei5,1035G1,DDR4,12,0,0,Intel,4,UHDGraphics,asus,28128000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,64,0,0,Nvidia,4,GeForceRTX4060,lenovo,86950000,digikala,,IPS,
+Intel,Corei5,12450H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050,acer,40949000,digikala,,IPS,
+Intel,Corei7,12650H,DDR5,16,0,0,Nvidia,4,RTX3070,asus,67450000,digikala,,IPS,
+Intel,Corei5,1240P,DDR4,16,0,0,Nvidia,4,GeForceRTX3050,acer,39599000,digikala,,IPS,
+Intel,Corei5,12450H,DDR5,16,0,0,Nvidia,4,GeForceRTX4050,msi,53900000,digikala,,IPS,
+Intel,Corei7,12650H,DDR5,16,0,0,Nvidia,4,GeForceRTX3070,asus,63900000,digikala,,IPS,
+Intel,Corei5,1235U,DDR4,8,0,0,Intel,4,IrisXe,hp,44690000,digikala,,IPS,
+Intel,Corei5,1035G1,DDR4,8,0,0,Intel,4,UHDGraphics,asus,28615000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,32,0,0,Nvidia,4,GeForceRTX4060,lenovo,78900000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050Ti,hp,41200000,digikala,,IPS,
+Intel,Corei7,12700U,DDR5,16,0,0,Nvidia,4,GeForceRTX3050Ti,hp,54990000,digikala,,IPS,
+Intel,Corei9,13980HX,DDR5,32,0,0,Nvidia,4,GeForceRTX4090,asus,235000000,digikala,,IPS,
+Intel,Corei7,11800H,DDR4,16,0,0,Nvidia,4,GeForceRTX3070LaptopGPU,hp,59490000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,16,1024,0,Nvidia,6,Geforce RTX4050 6GB GDDR6,lenovo,53900000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,1135G7,DDR4,8,0,0,Intel,4,IrisXeGraphics,asus,43985000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,16,512,0,Nvidia,8,Geforce RTX 4060 ,lenovo,58350000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,13620H,DDR5,16,0,0,Nvidia,4,GeForceRTX4060,msi,80200000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,32,1024,0,Nvidia,8,Geforce RTX 4060 ,lenovo,63810000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,13420H,DDR5,16,512,0,Nvidia,4,Geforce RTX4050 6GB GDDR6,lenovo,47200000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,13420H,DDR5,16,1024,0,Nvidia,4,Geforce RTX4050 6GB GDDR6,lenovo,48700000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,1240P,DDR4,16,0,0,Nvidia,4,GeForceRTX3050,acer,38199000,digikala,,IPS,
+Intel,Corei7,12650H,DDR5,16,0,0,Nvidia,4,GeForceRTX3070-8GBGDDR6,asus,63500000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,32,1024,0,Nvidia,6,Geforce RTX4050 6GB GDDR6,lenovo,57900000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,13620H,DDR5,16,512,0,Nvidia,6,Geforce RTX4050 6GB GDDR6,lenovo,52400000,meghdad,1080 * 1920 ,IPS,15.6
+AMD,Ryzen9,5900HS,DDR4,16,512,0,Nvidia,6,Geforce RTX3060 6GB GDDR6,asus,58799000,meghdad,1440 * 2560,IPS,15.6
+Intel,Corei5,1235U,DDR4,8,0,0,Intel,4,IrisXe,hp,44640000,digikala,,IPS,
+Intel,Corei7,13620H,DDR5,16,1024,0,Nvidia,8,Geforce RTX 4060 ,lenovo,59810000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,12700H,DDR5,16,0,0,Nvidia,4,GeForceRTX3060,msi,82498510,digikala,,IPS,
+Intel,Corei5,12500H,DDR4,32,0,0,Nvidia,4,GeForceGTX1650,hp,42000000,digikala,,IPS,
+Apple,M2,M2 8 Cores,Unified,8,0,0,Apple,4,Integrated10Cores,apple,75490000,digikala,,IPS,
+Intel,Corei5,1240P,DDR5,32,0,0,Intel,4,IrisXeGraphics,asus,43870000,digikala,,IPS,
+Intel,Corei7,11800H,DDR4,16,0,0,Nvidia,4,GeForceRTX3070LaptopGPU,hp,59490000,digikala,,IPS,
+Intel,Corei7,12700H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050Ti,lenovo,53650000,digikala,,IPS,
+Intel,Corei7,1165G7,DDR4,16,0,0,Nvidia,4,GeforceMX450,lenovo,37400000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,16,0,0,Intel,4,IrisXe,hp,55140000,digikala,,IPS,
+Intel,Corei5,13420H,DDR5,32,1024,0,Nvidia,4,Geforce RTX4050 6GB GDDR6,lenovo,52700000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei5,1235U,DDR4,8,0,0,Nvidia,4,GeForceMX550,lenovo,42770000,digikala,,IPS,
+Intel,Corei5,13420H,DDR4,16,0,0,Nvidia,4,RTX2050,hp,44500000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,32,1024,0,Nvidia,4,GeForce RTX2050,asus,41419000,meghdad,1080 * 1920 ,IPS,15.6
+AMD,Ryzen5,5600H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050Ti,lenovo,43690000,digikala,,IPS,
+AMD,Ryzen9,6900HX,DDR5,16,1024,0,Nvidia,6,Geforce RTX 3060,asus,65464000,meghdad,1080 * 1920 ,IPS,17.3
+Intel,Corei7,1255U,DDR4,8,0,0,Nvidia,4,GeForceMX570A,hp,36060000,digikala,,IPS,
+Apple,M1,Apple M1 chip,Unified,8,0,0,Apple,4,7coreApple-designedintegratedGPU,apple,47299000,digikala,,IPS,
+AMD,Ryzen9,6900HS,LPDDR5,16,0,0,Nvidia,4,GeForceRTX3050Ti,asus,82650000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,8,0,0,Intel,4,IrisXe,asus,36950000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,16,0,0,Nvidia,4,GEFORCERTX3050TIGDDR6,asus,45300000,digikala,,IPS,
+Intel,Corei7,12700H,LPDDR5,16,0,0,Nvidia,4,GeforceRTX3050TIGDDR6,hp,55300000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,16,512,0,Nvidia,4,GeForce RTX3050,asus,43299000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,1255U,DDR4,8,1024,0,Nvidia,2,MX570 GDDR6,hp,40800000,meghdad,768 * 1366,IPS,15.6
+AMD,Ryzen5,5600H,DDR4,8,0,0,Nvidia,4,GeForceRTX3050Ti,lenovo,42500000,digikala,,IPS,
+Intel,Corei5,1235U,DDR4,16,0,0,Intel,4,IrisXe,asus,36680000,digikala,,IPS,
+Intel,Corei7,11800H,DDR4,32,0,0,Nvidia,4,GEFORCERTX3070,lenovo,63450000,digikala,,IPS,
+Intel,Corei5,1135G7,DDR4,8,0,0,Intel,4,IrisXeGraphics,asus,43985000,digikala,,IPS,
+Intel,Corei5,1035G1,DDR4,8,0,0,Intel,4,UHDGraphics,asus,29450000,digikala,,IPS,
+Intel,Corei5,1235U,DDR4,16,0,0,Intel,4,IrisXe,asus,30100000,digikala,,IPS,
+Intel,Corei7,11800H,DDR4,32,0,0,Nvidia,4,GeForceRTX3060,lenovo,64000000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,8,0,0,Nvidia,4,GeForceMX550,lenovo,46900000,digikala,,IPS,
+Intel,Corei7,1165G7,DDR4,8,0,0,Nvidia,4,GeForceMX350,asus,36000000,digikala,,IPS,
+Intel,Corei5,1235U,DDR4,8,0,0,Intel,4,UHDGraphics,asus,28500000,digikala,,IPS,
+Intel,Corei7,12650H,DDR5,16,0,0,Nvidia,4,GeForceRTX4050,msi,62950000,digikala,,IPS,
+Intel,Corei7,12700H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050Ti,lenovo,53650000,digikala,,IPS,
+Intel,Corei5,11400H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050,asus,45000000,digikala,,IPS,
+Intel,Corei7,11800H,DDR4,16,0,0,Nvidia,4,GeForceRTX3060LaptopGPU,hp,52490000,digikala,,IPS,
+Intel,Corei7,13700HX,DDR5,32,0,0,Nvidia,4,GeForceRTX4070,acer,89590000,digikala,,IPS,
+Intel,Corei5,13420H,DDR4,16,0,0,Nvidia,4,RTX2050,hp,41500000,digikala,,IPS,
+Apple,M2,8 Core,Unified,8,0,0,Apple,4,10CoreApple-designedintegratedGPU,apple,65990000,digikala,,IPS,
+Apple,M2,M2 8 Cores,Unified,8,0,0,Apple,4,Integrated10Cores,apple,75990000,digikala,,IPS,
+AMD,Ryzen5,5600H,DDR4,16,0,0,AMD,4,RadeonGraphics,asus,28400000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,8,0,0,Nvidia,4,GeForceMX550,lenovo,49300000,digikala,,IPS,
+Intel,Corei5,1235U,DDR4,8,0,0,Intel,4,IrisXe,hp,43230000,digikala,,IPS,
+Intel,Corei7,13650HX,DDR5,16,0,0,Nvidia,4,GeForceRTX4060,asus,96950000,digikala,,IPS,
+Intel,Corei7,12650H,DDR4,16,0,0,Nvidia,4,GeForceRTX3060,lenovo,52999000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,16,0,0,Intel,4,IrisXe,lenovo,30400000,digikala,,IPS,
+Intel,Corei7,1165G7,DDR4,16,0,0,Nvidia,4,GeForceMX450,lenovo,33390000,digikala,,IPS,
+Intel,Corei7,1255U,DDR4,16,0,0,Intel,4,IrisXe,lenovo,30400000,digikala,,IPS,
+Apple,M2MAX,M2 MAX 12Core,unified memory,32,1024,0,Apple,4,دارای 38 هسته پردازش گرافیکی,apple,196800000,meghdad,3456*2234,IPS,16.2
+Intel,Corei7,12650H,DDR5,16,1024,0,Nvidia,6,RTX 4050 105W,msi,72400000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,1165G7,DDR4,16,512,0,Intel,4,Intel® Iris® Plus Graphics,asus,48699000,meghdad,1080 * 1920 ,IPS,13.3
+Intel,Corei7,12700H,DDR4,16,1024,0,Intel,4,IRIS XE,asus,43099000,meghdad,1080 * 1920 ,IPS,17.3
+Intel,Corei5,1235U,DDR4,8,512,0,Intel,4,Intel Iris Xe Graphics,asus,26749000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,1255U,DDR4,16,1024,0,Intel,4,Intel Iris Xe Graphics,asus,32649000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,1255U,DDR4,16,512,0,Intel,4,Intel Iris Xe Graphics,asus,31199000,meghdad,1080 * 1920 ,IPS,15.6
+Intel,Corei7,1255U,DDR4,8,512,0,Intel,4,Intel Iris Xe Graphics,asus,30184000,meghdad,1080 * 1920 ,IPS,15.6
+AMD,Ryzen5,5600H,DDR4,16,1024,0,AMD,4,RX VEGA 7,asus,30964000,meghdad,1200*1920,LED Backlit,16
+Intel,Corei7,1255U,DDR4,16,0,0,Nvidia,4,GeForceMX550,lenovo,50490000,digikala,,LED Backlit,
+Apple,M1,Apple M1 chip,Unified,8,0,0,Apple,4,7coreApple-designedintegratedGPU,apple,46199000,digikala,,LED Backlit,
+Intel,Corei7,1255U,DDR4,16,0,0,Nvidia,4,GeForceMX550,lenovo,48990000,digikala,,LED Backlit,
+Intel,Corei5,11300H,DDR4,8,0,0,Nvidia,4,GEFORCEGTX1650,lenovo,37950000,digikala,,LED Backlit,
+Intel,Corei7,1255U,DDR4,16,0,0,Nvidia,4,GeForceMX550,lenovo,50490000,digikala,,LED Backlit,
+Intel,Corei7,12700H,DDR4,16,512,0,Nvidia,4,NVIDIA GeForce RTX 3050,acer,46075000,meghdad,1080 * 1920 ,LED Backlit,15.6
+Apple,M1,Apple M1 chip,Unified,8,0,0,Apple,4,7coreApple-designedintegratedGPU,apple,45499000,digikala,,LED Backlit,
+Intel,Corei5,12450H,DDR4,16,512,0,Nvidia,4,GeForce RTX™ 2050,msi,48900000,meghdad,1080 * 1920 ,LED Backlit,17.3
+Intel,Corei7,12650H,DDR5,16,512,0,Nvidia,6,GeForce RTX™ 4050,msi,62700000,meghdad,1080 * 1920 ,LED Backlit,15.6
+AMD,Ryzen5,5600H,DDR4,16,512,0,AMD,4,RX VEGA 7,asus,29749000,meghdad,1200*1920,LED Backlit,16
+Apple,M1,Apple M1 chip,Unified,8,0,0,Apple,4,7coreApple-designedintegratedGPU,apple,45490000,digikala,,LED Backlit,
+Intel,Corei7,12700H,DDR4,16,1024,0,Nvidia,4,NVIDIA GeForce RTX 3050,acer,48100000,meghdad,1080 * 1920 ,LED Backlit,15.6
+Intel,Corei7,12700H,DDR4,32,1024,0,Nvidia,4,NVIDIA GeForce RTX 3050,acer,49300000,meghdad,1080 * 1920 ,LED Backlit,15.6
+AMD,Ryzen5,5600H,DDR4,8,512,0,AMD,4,RX VEGA 7,asus,28318000,meghdad,1200*1920,LED Backlit,16
+Apple,M1Pro,M1 Pro with 8 core CPU,unified memory,16,512,0,Apple,4,14core GPU16core Neural Engine200GB/s memory bandwidth,apple,92100000,meghdad,3024*1964,Liquid Retina,14.2
+Apple,M1,M1 Pro,Unified,16,0,0,Apple,4,GPUwith16-core,apple,99900000,digikala,,Liquid Retina,
+Apple,M1,M1 Pro,Unified,16,0,0,Apple,4,GPUwith16-core,apple,102900000,digikala,,Liquid Retina,
+Apple,M2,8‑Core,Unified,8,0,0,Apple,4,M210‑core,apple,56790000,digikala,,Liquid Retina,
+Apple,M2Pro,M2 Pro (12 Cores),Unified,32,0,0,Apple,4,M2Pro,apple,181990000,digikala,,Liquid Retina,
+Apple,M2,8‑core CPU,Unified,8,0,0,Apple,4,10‑coreGPU,apple,73490000,digikala,,Liquid Retina,
+Apple,M2,8‑Core,Unified,8,0,0,Apple,4,M210‑core,apple,74190000,digikala,,Liquid Retina,
+Apple,M2,8‑Core,Unified,8,0,0,Apple,4,M210‑core,apple,74500000,digikala,,Liquid Retina,
+Apple,M2Pro,M2 Pro (10 Cores),Unified,16,0,0,Apple,4,14-Cores,apple,102490000,digikala,,Liquid Retina,
+Apple,M2,8‑Core,Unified,8,0,0,Apple,4,M210‑core,apple,56890000,digikala,,Liquid Retina,
+Apple,M2Pro,M2 Pro (12 Cores),Unified,16,0,0,Apple,4,M2Pro,apple,117990000,digikala,,Liquid Retina,
+Apple,M2,8‑Core,LPDDR5,16,0,0,Apple,4,8COREGPU,apple,77399000,digikala,,Liquid Retina,
+Apple,M2Pro,M2 Pro (10 Cores),Unified,16,0,0,Apple,4,14-Cores,apple,102990000,digikala,,Liquid Retina,
+Apple,M2,8‑Core,Unified,8,0,0,Apple,4,M210‑core,apple,57490000,digikala,,Liquid Retina,
+Apple,M1Pro,M1 Pro with 10 core CPU,unified memory,16,512,0,Apple,4,16core GPU16core Neural Engine200GB/s memory bandwidth,apple,98500000,meghdad,3456*2234,Liquid Retina,16.2
+Apple,M1Pro,M1 Pro with 10 core CPU,unified memory,16,1024,0,Apple,4,16core GPU16core Neural Engine200GB/s memory bandwidth,apple,104880000,meghdad,3456*2234,Liquid Retina,16.2
+Apple,M2Pro,M2 Pro (12 Cores),Unified,16,0,0,Apple,4,M2Pro,apple,128490000,digikala,,Liquid Retina,
+Apple,M1Pro,M1 Pro with 10 core CPU,unified memory,16,1024,0,Apple,4,16core GPU16core Neural Engine200GB/s memory bandwidth,apple,107888000,meghdad,3024*1964,Liquid Retina,14.2
+Apple,M2,8‑core CPU,Unified,8,0,0,Apple,4,10‑coreGPU,apple,73990000,digikala,,Liquid Retina,
+Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,unified memory,8,512,0,Apple,4,10-core GPU,apple,80300000,meghdad,1800 * 2880,Liquid Retina,15
+Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,unified memory,8,256,0,Apple,4,10-core GPU,apple,63388000,meghdad,1800 * 2880,Liquid Retina,15
+Apple,M1Pro,M1 Pro with 10 core CPU,unified memory,16,1024,0,Apple,4,16core GPU16core Neural Engine200GB/s memory bandwidth,apple,101888000,meghdad,3024*1964,Liquid Retina,14.2
+Apple,M1,M1 Pro,Unified,16,0,0,Apple,4,GPUwith16-core,apple,101290000,digikala,,Liquid Retina,
+Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,unified memory,8,256,0,Apple,4,10-core GPU,apple,69300000,meghdad,1800 * 2880,Liquid Retina,15
+Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,unified memory,8,256,0,Apple,4,10-core GPU,apple,71500000,meghdad,1800 * 2880,Liquid Retina,15
+Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,unified memory,8,512,0,Apple,4,10-core GPU,apple,79400000,meghdad,1800 * 2880,Liquid Retina,15
+Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,unified memory,8,256,0,Apple,4,10-core GPU,apple,63300000,meghdad,1800 * 2880,Liquid Retina,15
+Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,unified memory,8,512,0,Apple,4,10-core GPU,apple,81988000,meghdad,1800 * 2880,Liquid Retina,15
+Apple,M2Pro,M2 Pro (12 Cores),Unified,16,0,0,Apple,4,M2Pro,apple,122890000,digikala,,Liquid Retina,
+Apple,M2,8‑Core,Unified,8,0,0,Apple,4,M210‑core,apple,72900000,digikala,,Liquid Retina,
+Apple,M2,8‑Core,Unified,8,0,0,Apple,4,M210‑core,apple,74790000,digikala,,Liquid Retina,
+Apple,M1,M1 Pro,Unified,16,0,0,Apple,4,GPUwith16-core,apple,102900000,digikala,,Liquid Retina,
+Apple,M2Pro,M2 Pro (12 Cores),Unified,16,0,0,Apple,4,M2Pro,apple,129990000,digikala,,Liquid Retina,
+Apple,M2Pro,M2 Pro (12 Cores),Unified,16,0,0,Apple,4,M2Pro,apple,128490000,digikala,,Liquid Retina,
+Apple,M1Pro,M1 Pro with 8 core CPU,unified memory,16,512,0,Apple,4,14core GPU16core Neural Engine200GB/s memory bandwidth,apple,105000000,meghdad,3024*1964,Liquid Retina,14.2
+Apple,M2,8‑Core,Unified,8,0,0,Apple,4,M210‑core,apple,57490000,digikala,,Liquid Retina,
+Apple,M1Pro,M1 Pro with 10 core CPU,unified memory,16,512,0,Apple,4,16core GPU16core Neural Engine200GB/s memory bandwidth,apple,97880000,meghdad,3456*2234,Liquid Retina,16.2
+Intel,Corei7,1165G7,DDR4,8,0,1024,Nvidia,2,NVIDIA Geforce MX450,lenovo,28700000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1155G7,DDR4,20,256,1024,Nvidia,2,NVIDIA Geforce MX350,lenovo,27500000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,1215U,DDR4,20,512,0,Intel,4,UHD,asus,20884000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1255U,DDR4,8,512,1024,Intel,4,IRIS XEUP TO 4GB,lenovo,30190000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,0,1024,Intel,4,Intel UHD Graphics,lenovo,16470000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1255U,DDR4,16,512,1024,Intel,4,IRIS XEUP TO 4GB,lenovo,31250000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1335U,DDR4,8,512,0,Intel,4,Intel Iris Graphics,asus,27689000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,256,1024,Nvidia,2,MX450,lenovo,21850000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1335U,DDR4,12,512,0,Intel,4,Intel Iris Xe Graphics,asus,27789000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1235U,DDR4,8,512,0,Intel,4,Iris Xe Graphics,hp,47720000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,1215U,DDR4,12,256,0,Intel,4,UHD,asus,18484000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,11370H,DDR4,16,256,1024,Nvidia,4,GTX 1650,lenovo,42850000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,12700H,DDR5,16,0,0,Nvidia,4,GeForceRTX3060,dell,79900000,digikala,,OLED,
+Intel,Corei5,1155G7,DDR4,12,0,1024,Nvidia,2,NVIDIA Geforce MX350,lenovo,25630000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1235U,DDR4,16,512,0,Intel,4,Intel Iris Xe Graphics,asus,27633000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,1115G4,DDR4,4,0,0,Nvidia,4,GeForceMX330,asus,19250000,digikala,,OLED,
+Intel,Corei5,11400H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050,dell,52900000,digikala,,OLED,
+Intel,Corei5,1335U,DDR4,8,512,0,Intel,4,Intel Iris Xe Graphics,asus,27189000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,1115G4,DDR4,12,0,0,Intel,4,UHD,acer,16499000,digikala,,OLED,
+Intel,Corei3,1215U,DDR4,12,512,0,Intel,4,UHD,asus,19434000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,512,1024,Nvidia,2,MX450,lenovo,23550000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1355U,DDR4,16,512,0,Intel,4,Intel Iris Xe Graphics,asus,31374000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHDGraphics,asus,16115000,digikala,,OLED,
+Intel,Corei3,I3 1115G4,DDR4,12,256,1024,Nvidia,2,MX450,lenovo,22350000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,512,0,Nvidia,2,MX450,lenovo,21170000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,512,0,Intel,4,Intel UHD Graphics,lenovo,16470000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,12700H,DDR4,24,0,0,Intel,4,IrisXe,asus,40500000,digikala,,OLED,
+Intel,Corei7,1065 G7,DDR4,16,0,1024,Nvidia,2,NVIDIA Geforce MX330,asus,30999000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,I3 1115G4,DDR4,4,0,1024,Nvidia,2,MX450,lenovo,20450000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,11370H,DDR4,32,512,1024,Nvidia,4,GTX 1650,lenovo,45830000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1360P,DDR5,16,0,0,Nvidia,4,GeForceRTX2050,dell,96999000,digikala,,OLED,
+Intel,Corei7,1165G7,DDR4,16,256,1024,Nvidia,2,NVIDIA Geforce MX450,lenovo,33150000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1135G7,DDR4,12,0,0,Nvidia,4,GeForceMX330,asus,27395000,digikala,,OLED,
+Intel,Corei5,1035G1,LPDDR4X,16,0,0,Intel,4,UHDGraphics,microsoft,33200000,digikala,,OLED,
+Intel,Corei3,I3 1115G4,DDR4,8,512,1024,Intel,4,Intel UHD Graphics,lenovo,18270000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHD,acer,15990000,digikala,,OLED,
+Intel,Corei3,I3 1115G4,DDR4,8,256,0,Intel,4,Intel UHD Graphics,lenovo,15990000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1155G7,DDR4,16,256,1024,Nvidia,2,NVIDIA Geforce MX350,lenovo,26840000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1255U,DDR4,12,0,0,Nvidia,4,GeForceMX570,dell,71999000,digikala,,OLED,
+Intel,Corei7,1165G7,DDR4,12,0,1024,Nvidia,2,NVIDIA Geforce MX450,lenovo,29100000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1155G7,DDR4,8,0,1024,Nvidia,2,NVIDIA Geforce MX350,lenovo,25150000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1355U,DDR4,8,512,0,Intel,4,Intel Iris Xe Graphics,asus,30274000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1155G7,DDR4,8,256,1024,Nvidia,2,NVIDIA Geforce MX350,lenovo,26150000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,256,0,Nvidia,2,MX450,lenovo,20770000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,128,1024,Intel,4,Intel UHD Graphics,lenovo,17210000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1155G7,DDR4,12,256,1024,Nvidia,2,NVIDIA Geforce MX350,lenovo,26640000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,12700H,DDR4,16,0,0,Intel,4,IrisXe,asus,40600000,digikala,,OLED,
+Intel,Corei3,1215U,DDR4,20,256,0,Intel,4,UHD,asus,19599000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,1315U,DDR4,8,256,0,Intel,4,Intel Iris Graphics,asus,20574000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1335U,DDR4,16,512,0,Intel,4,Intel Iris Xe Graphics,asus,28474000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,1215U,DDR4,8,0,0,Intel,4,UHDGraphics,asus,23240000,digikala,,OLED,
+Intel,Corei3,1215U,DDR4,8,512,0,Intel,4,UHD,asus,19003000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,1005G1,DDR4,4,0,0,Intel,4,IntegratedIntelGraphics,hp,24200000,digikala,,OLED,
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,acer,16790000,digikala,,OLED,
+Intel,Corei7,1165G7,DDR4,8,0,0,Nvidia,4,GeforceMX450,lenovo,27800000,digikala,,OLED,
+Intel,Corei3,1215U,DDR4,4,0,0,Intel,4,UHDGraphics,asus,17980000,digikala,,OLED,
+Intel,Corei5,1135G7,DDR4,24,0,0,Nvidia,4,GeForceMX330,asus,32480000,digikala,,OLED,
+Intel,Corei5,1155G7,DDR4,24,256,1024,Nvidia,2,NVIDIA Geforce MX350,lenovo,28175000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1135G7,DDR4,12,0,0,Nvidia,4,GeForceMX330,asus,29260000,digikala,,OLED,
+Intel,Corei5,1135G7,DDR4,8,0,0,Nvidia,4,GeForceMX330,asus,27500000,digikala,,OLED,
+Intel,Corei7,1185G7 Quad core 11th Generation,LPDDR4X,16,0,0,Intel,4,IntelIrisXeGraphics,microsoft,69990000,digikala,,OLED,
+Intel,Corei7,12700H,DDR4,24,0,0,Intel,4,IrisXe,asus,42720000,digikala,,OLED,
+AMD,Ryzen5,5600H,DDR4,8,512,0,Nvidia,4,Geforce GTX1650,asus,30049000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1355U,DDR4,12,512,0,Intel,4,Intel Iris Xe Graphics,asus,330889000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1165G7,DDR4,16,1024,0,Nvidia,2,NVIDIA Geforce MX450,lenovo,34650000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1155G7,DDR4,8,512,0,Nvidia,2,NVIDIA Geforce MX350,lenovo,25190000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1355U,DDR4,16,1024,0,Intel,4,Intel Iris Xe Graphics,asus,32874000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,1215U,DDR4,8,1024,0,Intel,4,UHD,asus,19979000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1145G7,DDR4,8,0,0,Intel,4,IntelIrisXeGraphics,microsoft,46900000,digikala,,OLED,
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHD,asus,19390000,digikala,,OLED,
+Intel,Corei5,1335U,DDR4,12,1024,0,Intel,4,Intel Iris Xe Graphics,asus,28649000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,12700H,DDR4,24,0,0,Intel,4,IrisXe,asus,40500000,digikala,,OLED,
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHD,asus,19390000,digikala,,OLED,
+Intel,Corei3,I3 1115G4,DDR4,8,256,1024,Intel,4,Intel UHD Graphics,lenovo,17640000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1165G7,DDR4,16,0,0,Nvidia,4,GeforceMX330GDDR5,asus,37200000,digikala,,OLED,
+Intel,Corei3,I3 1115G4,DDR4,4,256,0,Intel,4,Intel UHD Graphics,lenovo,15450000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1165G7,DDR4,16,512,0,Nvidia,2,NVIDIA Geforce MX350,asus,34644000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1250U,DDR5,16,0,0,Intel,4,IrisXe,dell,94999000,digikala,,OLED,
+AMD,Ryzen5,4600H,DDR4,8,512,0,AMD,4,AMD Radeon,asus,24289000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,12700H,DDR4,16,1024,0,Nvidia,4,GeForce RTX 3050,asus,56674000,meghdad,1620 * 2880,OLED,15.6
+Intel,Corei5,1135G7,DDR4,16,0,0,Nvidia,4,GeForceMX350,asus,32110000,digikala,,OLED,
+Intel,Corei7,1260P,LPDDR5,16,0,0,Intel,4,IrisXe,asus,63000000,digikala,,OLED,
+Intel,Corei7,12700H,LPDDR5,16,0,0,Intel,4,IRISXE,asus,62900000,digikala,,OLED,
+Intel,Corei7,1165G7,LPDDR4X,16,0,0,Intel,4,IrisXe,asus,59900000,digikala,,OLED,
+Intel,Corei7,12700H,LPDDR5,16,0,0,Nvidia,4,GeForceRTX3050Ti,asus,102990000,digikala,,OLED,
+Intel,Corei7,12700H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050,asus,59800000,digikala,,OLED,
+Intel,Corei7,1165G7,DDR4,20,1024,0,Nvidia,2,NVIDIA Geforce MX350,asus,37174000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,12700H,LPDDR5,16,0,0,Nvidia,4,GeForceRTX3050,asus,57390000,digikala,,OLED,
+Intel,Corei7,13700H,LPDDR5,16,0,0,Intel,4,IRISXE,asus,68475000,digikala,,OLED,
+Intel,Corei7,1165G7,DDR4,8,512,0,Nvidia,2,NVIDIA Geforce MX350,asus,33699000,meghdad,1080 * 1920 ,OLED,15.6
+AMD,Ryzen5,4600H,DDR4,8,1024,0,AMD,4,AMD Radeon,asus,25364000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,12700H,LPDDR5,16,0,0,Intel,4,IRISXE,asus,62900000,digikala,,OLED,
+AMD,Ryzen7,5800H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050,asus,46950000,digikala,,OLED,
+Intel,Corei7,13700H,LPDDR5,16,0,0,Intel,4,IRISXE,asus,68475000,digikala,,OLED,
+AMD,Ryzen7,5800H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050,asus,48900000,digikala,,OLED,
+Intel,Corei7,12700H,DDR4,16,0,0,Intel,4,IrisXe,asus,40600000,digikala,,OLED,
+AMD,Ryzen7,5800H,DDR4,16,0,0,Nvidia,4,GEFORCERTX3050,asus,42500000,digikala,,OLED,
+Intel,Corei7,1260P,DDR5,16,1024,0,Intel,4,Iris Xe,asus,75464000,meghdad,1800 * 2880,OLED,14
+Intel,Corei5,12500H,DDR4,8,0,0,Intel,4,IRISXE,asus,42900000,digikala,,OLED,
+Intel,Corei7,13620H,DDR5,16,0,0,Nvidia,4,GeForceRTX3050,asus,58000000,digikala,,OLED,
+Intel,Corei5,13500H,LPDDR5,8,0,0,Intel,4,IRISXE,asus,40300000,digikala,,OLED,
+Intel,Corei7,1165G7,DDR4,16,0,0,Nvidia,4,GeForceMX350,asus,36990000,digikala,,OLED,
+Intel,Corei7,1165G7,DDR4,20,512,0,Nvidia,2,NVIDIA Geforce MX350,asus,35674000,meghdad,1080 * 1920 ,OLED,15.6
+AMD,Ryzen7,5800H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050,asus,46950000,digikala,,OLED,
+Intel,Corei7,1165G7,LPDDR4X,16,0,0,Intel,4,IrisXe,asus,49500000,digikala,,OLED,
+Intel,Corei7,12700H,LPDDR5,16,0,0,Nvidia,4,GEFORCERTX3050TIGDDR6,asus,116332000,digikala,,OLED,
+Intel,Corei7,1165G7,DDR4,12,256,1024,Nvidia,2,NVIDIA Geforce MX450,lenovo,30200000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1155G7,DDR4,16,512,1024,Nvidia,2,NVIDIA Geforce MX350,lenovo,27500000,meghdad,1080 * 1920 ,OLED,15.6
+AMD,Ryzen3,7320U,DDR4,4,0,0,AMD,4,RadeonGraphics,lenovo,13830000,digikala,,OLED,
+AMD,Ryzen7,5700U,LPDDR4X,8,0,0,Nvidia,4,GeForceMX450,asus,37500000,digikala,,OLED,
+Intel,Corei7,1065 G7,DDR4,16,512,0,Nvidia,2,NVIDIA Geforce MX330,asus,30683000,meghdad,1080 * 1920 ,OLED,15.6
+AMD,Ryzen5,3500U,DDR4,8,0,0,AMD,4,RadeonVEGA8,acer,24100000,digikala,,OLED,
+Intel,Corei3,I3 1115G4,DDR4,8,128,1024,Nvidia,2,MX450,lenovo,21550000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,N305,LPDDR5,4,0,0,Intel,4,UHD,acer,14800000,digikala,,OLED,
+Intel,Corei7,1165G7,DDR4,8,256,1024,Nvidia,2,NVIDIA Geforce MX450,lenovo,29710000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,512,1024,Intel,4,Intel UHD Graphics,lenovo,18670000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1355U,DDR4,12,1024,0,Intel,4,Intel Iris Xe Graphics,asus,32364000,meghdad,1080 * 1920 ,OLED,15.6
+AMD,Ryzen5,4680U,DDR4,16,0,0,AMD,4,RadeonGraphics,microsoft,52900000,digikala,,OLED,
+AMD,Ryzen5,7520U,DDR5,8,0,0,AMD,4,Radeon,acer,23688000,digikala,,OLED,
+Intel,Corei5,1335U,DDR4,16,512,0,Intel,4,Intel Iris Graphics,asus,28764000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,128,1024,Nvidia,2,MX450,lenovo,22100000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,12700H,DDR4,24,0,0,Intel,4,IrisXe,asus,47900000,digikala,,OLED,
+Intel,Corei3,I3 1115G4,DDR4,8,0,1024,Nvidia,2,MX450,lenovo,21130000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,N305,LPDDR5,4,0,0,Intel,4,UHD,acer,15300000,digikala,,OLED,
+Intel,Corei5,11400H,DDR4,8,0,0,Nvidia,4,GeForceRTX3050,dell,49900000,digikala,,OLED,
+Intel,Corei5,1135G7,DDR4,8,0,0,Intel,4,IrisXe,dell,32499000,digikala,,OLED,
+Intel,Corei5,1135G7,DDR4,8,0,0,Intel,4,IrisXe,dell,32499000,digikala,,OLED,
+Intel,Corei7,1255U,DDR4,8,0,0,Nvidia,4,GeForceMX550,dell,37900000,digikala,,OLED,
+Intel,Corei3,I3 1115G4,DDR4,12,0,1024,Nvidia,2,MX450,lenovo,21550000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1255U,DDR4,12,0,0,Nvidia,4,GeForceMX570,dell,71999000,digikala,,OLED,
+Intel,Corei7,11370H,DDR4,32,256,1024,Nvidia,4,GTX 1650,lenovo,44800000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,12700H,DDR4,24,0,0,Intel,4,IrisXe,asus,47900000,digikala,,OLED,
+Intel,Corei5,1135G7,DDR4,8,0,0,Nvidia,4,GeForceMX350,dell,31900000,digikala,,OLED,
+Intel,Corei7,1250U,DDR5,16,0,0,Intel,4,IrisXe,dell,94999000,digikala,,OLED,
+Intel,Corei5,1235U,DDR4,8,512,0,Intel,4,Iris Xe Graphics,hp,47550000,meghdad,1080 * 1920 ,OLED,14
+Intel,Corei7,1255U,DDR4,16,0,0,Nvidia,4,GeForceMX550,dell,38900000,digikala,,OLED,
+Intel,Corei5,1155G7,DDR4,8,512,1024,Nvidia,2,NVIDIA Geforce MX350,lenovo,26830000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1165G7,DDR4,12,512,1024,Nvidia,2,NVIDIA Geforce MX450,lenovo,30700000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1165G7,DDR4,12,512,0,Nvidia,2,NVIDIA Geforce MX450,lenovo,29210000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,1215U,DDR4,12,1024,0,Intel,4,UHD,asus,20499000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,1215U,DDR4,8,256,0,Intel,4,Intel HD Graphics,asus,17349000,meghdad,1080 * 1920 ,OLED,15.6
+AMD,Ryzen5,7520U,DDR5,8,0,0,AMD,4,Radeon,acer,25183200,digikala,,OLED,
+Intel,Corei9,12900H,DDR5,32,0,0,Nvidia,4,GeForceRTX3080Ti,asus,165900000,digikala,,OLED,
+Intel,Corei5,1135G7,DDR4,16,0,0,Nvidia,4,GeForceMX330GDDR5,asus,27400000,digikala,,OLED,
+Intel,Corei5,1035G1,DDR4,4,0,0,Intel,4,UHDGraphics,microsoft,22590000,digikala,,OLED,
+Intel,Corei3,1215U,DDR4,8,0,0,Intel,4,UHDGraphics,asus,18900000,digikala,,OLED,
+Intel,Corei5,1235U,DDR4,8,1024,0,Intel,4,Iris Xe Graphics,hp,48750000,meghdad,1080 * 1920 ,OLED,14
+Intel,Corei7,12700H,DDR5,16,0,0,Nvidia,4,GEFORCERTX3060,asus,72650000,digikala,,OLED,
+Intel,Corei5,1335U,DDR4,16,1024,0,Intel,4,Intel Iris Xe Graphics,asus,29674000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,512,1024,Nvidia,2,MX450,lenovo,22650000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1165G7,DDR4,8,512,0,Nvidia,2,NVIDIA Geforce MX450,lenovo,28650000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,12700H,DDR4,40,0,0,Intel,4,IrisXe,asus,42840000,digikala,,OLED,
+Intel,Corei7,12700H,DDR4,16,0,0,Intel,4,IrisXe,asus,41400000,digikala,,OLED,
+Intel,Corei7,1165G7,DDR4,8,512,0,Nvidia,2,NVIDIA Geforce MX450,lenovo,31690000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei5,1235U,DDR4,8,1024,0,Intel,4,Iris Xe Graphics,hp,48700000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,1115G4,DDR4,12,0,0,Intel,4,UHDGraphics,acer,17799000,digikala,,OLED,
+Intel,Corei5,1135G7,DDR4,8,0,0,Nvidia,4,GeForceMX350,dell,31900000,digikala,,OLED,
+Intel,Corei3,I3 1115G4,DDR4,12,512,0,Intel,4,Intel UHD Graphics,lenovo,17130000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,1165G7,DDR4,16,512,0,Nvidia,2,NVIDIA Geforce MX450,lenovo,33190000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei7,12700H,DDR4,40,0,0,Intel,4,IrisXe,asus,42840000,digikala,,OLED,
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHD,asus,15600000,digikala,,OLED,
+Intel,Corei3,I3 1115G4,DDR4,12,512,0,Nvidia,2,MX450,lenovo,21550000,meghdad,1080 * 1920 ,OLED,15.6
+Intel,Corei3,1215U,DDR4,8,0,0,Intel,4,UHDGraphics,asus,21880000,digikala,,OLED,
+Intel,Corei5,1135G7,DDR4,12,0,0,Nvidia,4,GeForceMX330,asus,28590000,digikala,,OLED,
+Intel,Corei5,1135G7,DDR4,8,0,0,Nvidia,4,GeForceMX350,dell,31900000,digikala,,OLED,
+Intel,Corei3,1215U,DDR4,4,0,0,Intel,4,UHD,asus,18700000,digikala,,OLED,
+Intel,Corei5,1235U,LPDDR5X,16,0,0,Intel,4,IrisXe,microsoft,64490000,digikala,,PixelSense,
+Intel,Corei7,1065G7,DDR4,32,0,0,Nvidia,4,NvidiaGeForceGTX1650Max-QDDR5,microsoft,79990000,digikala,,PixelSense,
+Intel,Corei7,11370H,DDR4,32,0,0,Nvidia,4,GeForceRTXA2000,microsoft,143910000,digikala,,PixelSense,
+Intel,Corei5,1235U,LPDDR5X,16,0,0,Intel,4,IrisXe,microsoft,64490000,digikala,,PixelSense,
+Intel,Corei7,1185G7,LPDDR4X,32,0,0,Intel,4,IrisXe,microsoft,88700000,digikala,,PixelSense,
+Intel,Corei5,1035G1,LPDDR4X,8,0,0,Intel,4,UHDGraphics,microsoft,27990000,digikala,,PixelSense,
+Intel,Corei5,1035G7,DDR4,8,0,0,Nvidia,4,IrisPlus,microsoft,41990000,digikala,,PixelSense,
+Intel,Corei7,1255U,LPDDR5X,16,0,0,Intel,4,IntelIrisXe,microsoft,76500000,digikala,,PixelSense,
+Intel,Corei5,1035G7,DDR4,16,256,0,Intel,4,Intel Iris Plus Graphics,microsoft,47380000,meghdad,2256 * 1504,PixelSense,13.5
+Intel,Corei7,1065G7,LPDDR4X,16,0,0,Nvidia,4,GeForceGTX1660Ti,microsoft,61691000,digikala,,PixelSense,
+AMD,Ryzen5,4680U,LPDDR4X,8,0,0,AMD,4,RadeonGraphics,microsoft,37754000,digikala,,PixelSense,
+Intel,Corei5,1235U,LPDDR5X,16,0,0,Intel,4,IrisXe,microsoft,69900000,digikala,,PixelSense,
+Intel,Corei7,1255U,LPDDR5X,8,0,0,Intel,4,IrisXe,microsoft,65900000,digikala,,PixelSense,
+Intel,Corei7,1185G7,LPDDR4X,32,0,0,Intel,4,IrisXe,microsoft,88700000,digikala,,PixelSense,
+Intel,Corei5,1235U,LPDDR5X,8,0,0,Intel,4,IrisXe,microsoft,59400000,digikala,,PixelSense,
+Intel,Corei7,1185G7,LPDDR4X,32,0,0,Intel,4,IrisXe,microsoft,89990000,digikala,,PixelSense,
+Intel,Corei7,1255U,LPDDR5X,16,0,0,Intel,4,IrisXe,microsoft,75190000,digikala,,PixelSense,
+Intel,Corei7,1065G7,DDR4,16,0,0,Nvidia,4,NvidiaGeForceGTX1650Max-QDDR5,microsoft,54900000,digikala,,PixelSense,
+Intel,Corei5,1035G1,LPDDR4X,8,0,0,Intel,4,UHDGraphics,microsoft,29990000,digikala,,PixelSense,
+Intel,Corei7,Quad core 10th 1065G7,DDR4,16,0,0,Intel,4,IntelIrisPlusGraphics,microsoft,56500000,digikala,,PixelSense,
+AMD,Ryzen7,4980U,LPDDR4X,8,0,0,AMD,4,RadeonGraphics,microsoft,52900000,digikala,,PixelSense,
+Intel,Corei7,11370H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050Ti,microsoft,99900000,digikala,,PixelSense,
+AMD,Ryzen7,3780U,DDR4,16,0,0,AMD,4,RXVega11GraphicsMicrosoftSurfaceEdition,microsoft,63000000,digikala,,PixelSense,
+Intel,Corei7,1185G7,LPDDR4X,8,0,0,Intel,4,IrisXe,microsoft,57500000,digikala,,PixelSense,
+Intel,Corei7,11370H,DDR4,16,0,0,Nvidia,4,GeForceRTX3050Ti,microsoft,99900000,digikala,,PixelSense,
+Intel,Corei5,1235U,DDR5,16,512,0,Intel,4, Intel® Iris® Xe,microsoft,63300000,meghdad,2256 * 1504,PixelSense,13.5
+Intel,Corei7,1185G7,DDR4,32,1024,0,Intel,4, Intel® Iris® Xe,microsoft,82500000,meghdad,2256 * 1504,PixelSense,13.5
+Intel,Corei7,1255U,DDR5,8,512,0,Intel,4, Intel® Iris® Xe,microsoft,63380000,meghdad,,PixelSense,15
+Intel,Corei7,1255U,DDR5,16,512,0,Intel,4, Intel® Iris® Xe,microsoft,77388000,meghdad,,PixelSense,15
+Intel,Corei5,1035 G1,DDR4,8,128,0,Intel,4,Intel® UHD Graphics,microsoft,25000000,meghdad,,PixelSense,12.5
+Intel,Corei7,1065 G7,DDR4,32,1024,0,Intel,4,Intel Iris Plus Graphics,microsoft,72600000,meghdad,2256 * 1504,PixelSense,15
+Intel,Corei7,1185G7,DDR4,16,256,0,Intel,4, Intel® Iris® Xe,microsoft,56888000,meghdad,2256 * 1504,PixelSense,13.5
+Intel,Corei5,1135G7,DDR4,16,256,0,Intel,4,Intel® Iris® Xe Graphics,microsoft,37288000,meghdad,,PixelSense,12.5
+Intel,Corei5,1135G7,DDR4,8,512,0,Intel,4, Intel® Iris® Xe,microsoft,49300000,meghdad,2256 * 1504,PixelSense,13.5
+Intel,Corei7,8650U,DDR3,16,512,0,Nvidia,2,GeForce® GTX 1050 GDDR5,microsoft,55812000,meghdad,2000 * 3000,PixelSense,13.5
+Intel,Corei5,1135G7,DDR4,4,128,0,Intel,4,Intel® Iris® Xe Graphics,microsoft,30310000,meghdad,,PixelSense,12.5
+Intel,Corei7,11370H,DDR4,32,2048,0,Nvidia,4, RTX™ A2000,microsoft,139000000,meghdad,1600 * 2560,PixelSense,14.4
+Intel,Corei7,8650U,DDR3,16,512,0,Nvidia,6,GTX 1060 GDDR5,microsoft,66800000,meghdad,2160 * 3840,PixelSense,15
+Intel,Corei7,11370H,DDR4,32,1024,0,Nvidia,4,NVIDIA® GeForce RTX™3050 Ti  laptop GPU with 4GB GDDR6,microsoft,120000000,meghdad,1600 * 2560,PixelSense,14.4
+Intel,Corei5,1235U,DDR5,8,512,0,Intel,4, Intel® Iris® Xe,microsoft,54380000,meghdad,2256 * 1504,PixelSense,13.5
+Intel,Corei7,11370H,DDR4,16,512,0,Nvidia,4,NVIDIA® GeForce RTX™3050 Ti  laptop GPU with 4GB GDDR6,microsoft,93383000,meghdad,1600 * 2560,PixelSense,14.4
+Intel,Corei7,1185G7,DDR4,16,256,0,Intel,4, Intel® Iris® Xe,microsoft,57888000,meghdad,,PixelSense,15
+Intel,Corei7,1185G7,DDR4,8,512,0,Intel,4, Intel® Iris® Xe,microsoft,54288000,meghdad,,PixelSense,15
+Intel,Corei5,1035G7,DDR4,8,256,0,Intel,4,Intel® Iris™ Plus Graphics,microsoft,45000000,meghdad,2000 * 3000,PixelSense,13.5
+Intel,Corei5,11300H,DDR4,16,512,0,Intel,4, Intel® Iris® Xe,microsoft,70230000,meghdad,1600 * 2560,PixelSense,14.4
+Intel,Corei7,1255U,DDR5,16,512,0,Intel,4, Intel® Iris® Xe,microsoft,71500000,meghdad,2256 * 1504,PixelSense,13.5
+Intel,Corei7,1065 G7,DDR4,16,256,0,Intel,4,Intel Iris Plus Graphics,microsoft,50300000,meghdad,2256 * 1504,PixelSense,15
+Intel,Corei7,1065 G7,DDR4,32,512,0,Nvidia,6,GTX 1660 Ti,microsoft,88300000,meghdad,2160 * 3840,PixelSense,15
+AMD,Ryzen7,4980U,DDR4,16,512,0,AMD,4,powered by AMD Ryzen™ Microsoft Surface® Edition: AMD Radeon™ Graphics,microsoft,58900000,meghdad,,PixelSense,15
+Intel,Corei7,11370H,DDR4,32,2048,0,Nvidia,4,NVIDIA® GeForce RTX™3050 Ti  laptop GPU with 4GB GDDR6,microsoft,134000000,meghdad,1600 * 2560,PixelSense,14.4
+Intel,Corei7,1255U,DDR5,8,256,0,Intel,4, Intel® Iris® Xe,microsoft,59388000,meghdad,,PixelSense,15
+Intel,Corei5,1035 G1,DDR4,8,256,0,Intel,4,Intel® UHD Graphics,microsoft,29380000,meghdad,,PixelSense,12.5
+Intel,Corei5,1035G7,DDR4,8,128,0,Intel,4,Intel Iris Plus Graphics,microsoft,36288000,meghdad,2256 * 1504,PixelSense,13.5
+Intel,Corei5,1035 G1,DDR4,16,256,0,Intel,4,Intel® UHD Graphics,microsoft,32500000,meghdad,,PixelSense,12.5
+Intel,Corei7,1065 G7,DDR4,16,512,0,Intel,4,Intel Iris Plus Graphics,microsoft,57350000,meghdad,2256 * 1504,PixelSense,13.5
+Intel,Corei7,1065 G7,DDR4,32,1024,0,Nvidia,4,GTX 1650 with Max-Q Design,microsoft,87380000,meghdad,2000 * 3000,PixelSense,13.5
+Intel,Corei7,1065 G7,DDR4,16,512,0,Intel,4,Intel Iris Plus Graphics,microsoft,56300000,meghdad,2256 * 1504,PixelSense,15
+Intel,Corei5,1235U,DDR5,8,256,0,Intel,4, Intel® Iris® Xe,microsoft,45833000,meghdad,2256 * 1504,PixelSense,13.5
+Intel,Corei5,1035G7,DDR4,8,128,0,Intel,4,Intel Iris Plus Graphics,microsoft,39330000,meghdad,1440 * 2304,PixelSense,15
+Intel,Corei7,1065 G7,DDR4,16,256,0,Nvidia,4,GTX 1650 with Max-Q Design,microsoft,60500000,meghdad,2000 * 3000,PixelSense,13.5
+Intel,Corei5,1035G7,DDR4,8,256,0,Intel,4,Intel Iris Plus Graphics,microsoft,40000000,meghdad,2256 * 1504,PixelSense,13.5
+AMD,Ryzen7,4980U,DDR4,16,512,0,AMD,4,powered by AMD Ryzen™ Microsoft Surface® Edition: AMD Radeon™ Graphics,microsoft,56888000,meghdad,2256 * 1504,PixelSense,13.5
+AMD,Ryzen7,4980U,DDR4,8,256,0,AMD,4,powered by AMD Ryzen™ Microsoft Surface® Edition: AMD Radeon™ Graphics,microsoft,46330000,meghdad,,PixelSense,15
+Intel,Corei7,8650U,DDR3,8,256,0,Nvidia,2,GeForce® GTX 1050 GDDR5,microsoft,49388000,meghdad,2000 * 3000,PixelSense,13.5
+Intel,Corei7,1255U,DDR5,32,1024,0,Intel,4, Intel® Iris® Xe,microsoft,117000000,meghdad,,PixelSense,15
+Intel,Corei3,1115G4,DDR4,12,0,0,Intel,4,UHDGraphics,asus,18060000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,dell,17600000,digikala,,TN,
+Intel,Celeron,N4120,DDR4,4,0,0,Intel,4,UHDGraphics600,hp,15575000,digikala,,TN,
+AMD,Ryzen3,7320U,LPDDR5,8,0,0,AMD,4,Radeon610M,lenovo,15600000,digikala,,TN,
+AMD,ATHLON,Silver 3050e,DDR4,4,0,0,AMD,4,RadeonGraphics,lenovo,12620000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,lenovo,17600000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHDGraphics,lenovo,14990000,digikala,,TN,
+Intel,Corei3,I3 1115G4,DDR4,36,128,1024,Intel,4,Intel UHD Graphics,lenovo,20190000,meghdad,1080 * 1920 ,TN,15.6
+Intel,Corei7,1165G7,DDR4,16,0,0,Nvidia,4,GeForceMX450,lenovo,35900000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,8,0,0,Intel,4,UHD,lenovo,16750000,digikala,,TN,
+Intel,Corei3,I3 1115G4,DDR4,36,256,1024,Intel,4,Intel UHD Graphics,lenovo,20450000,meghdad,1080 * 1920 ,TN,15.6
+AMD,ATHLON,Silver 7120U,LPDDR5,8,0,0,AMD,4,Radeon610M,lenovo,14300000,digikala,,TN,
+Intel,Pentium,N5030,DDR4,4,0,0,Intel,4,IntelUHDGraphics,lenovo,14000000,digikala,,TN,
+AMD,ATHLON,Silver 7120U,LPDDR5,8,0,0,AMD,4,Radeon610M,lenovo,18990000,digikala,,TN,
+Intel,Corei5,1135G7,DDR4,8,0,0,Nvidia,4,GeForceMX350,lenovo,24780000,digikala,,TN,
+Intel,Celeron,N4020,DDR4,4,0,0,Intel,4,UHDGraphics600,lenovo,13150000,digikala,,TN,
+Intel,Corei5,1235U,DDR4,16,0,0,Intel,4,IrisXeGraphics,lenovo,26800000,digikala,,TN,
+Intel,Celeron,N4120,DDR4,8,0,0,Intel,4,UHDGraphics600,hp,16800000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,8,0,0,Intel,4,UHDGraphics,lenovo,15800000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,12,0,0,Nvidia,4,GeForceMX450,lenovo,35480000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHDGraphics,lenovo,17700000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,20,0,0,Intel,4,UHDGraphics,asus,20500000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,4,0,0,Intel,4,UHDGraphics,lenovo,16350000,digikala,,TN,
+Intel,Corei5,1155G7,DDR4,8,0,0,Nvidia,4,GeForceMX350,lenovo,26960000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,12,0,0,Nvidia,4,GeForceMX450GDDR5,lenovo,32000000,digikala,,TN,
+Intel,Corei3,1305U,LPDDR5,8,0,0,Intel,4,UHDGraphics,lenovo,16800000,digikala,,TN,
+AMD,Ryzen7,5700U,DDR4,8,0,0,AMD,4,RadeonRXVega8,lenovo,26200000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,16,0,0,Nvidia,4,GeForceMX450,lenovo,31440000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,12,0,0,Intel,4,UHDGraphics,lenovo,21760000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,12,0,0,Nvidia,4,GeForceMX450GDDR5,lenovo,32000000,digikala,,TN,
+Intel,Corei3,I3 1115G4,DDR4,20,512,1024,Intel,4,Intel UHD Graphics,lenovo,19435000,meghdad,1080 * 1920 ,TN,15.6
+Intel,Corei7,1165G7,DDR4,8,0,0,Nvidia,4,GeForceMX4502GBGDDR6,lenovo,33640000,digikala,,TN,
+Intel,Corei3,I3 1115G4,DDR4,36,512,1024,Intel,4,Intel UHD Graphics,lenovo,20861000,meghdad,1080 * 1920 ,TN,15.6
+Intel,Corei3,1215U,DDR4,12,0,0,Intel,4,UHD,lenovo,17150000,digikala,,TN,
+Intel,Celeron,N4020,DDR4,4,0,0,Intel,4,UHDGraphics600,lenovo,12320000,digikala,,TN,
+Intel,Celeron,Celeron N4020,DDR4,4,256,0,Intel,4,Intel UHD Graphic,lenovo,10600000,meghdad,768 * 1366,TN,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,128,1024,Intel,4,Intel UHD Graphics,lenovo,17770000,meghdad,1080 * 1920 ,TN,15.6
+Intel,Corei3,1305U,LPDDR5,8,0,0,Intel,4,UHDGraphics,lenovo,18620000,digikala,,TN,
+Intel,Corei5,1135G7,DDR4,8,0,0,Nvidia,4,GeForceMX350,lenovo,24200000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHDGraphics,lenovo,15700000,digikala,,TN,
+AMD,Ryzen3,3250U,DDR4,4,0,0,AMD,4,RadeonVega3,hp,16970000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,Integrated,lenovo,15390000,digikala,,TN,
+Intel,Corei5,1235U,DDR4,8,256,0,Intel,4,INTEL,lenovo,23700000,meghdad,1080 * 1920 ,TN,15.6
+Intel,Celeron,N4020,DDR4,4,0,0,Intel,4,UHDGraphics,lenovo,12310000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHDGraphics,lenovo,17700000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,4,0,0,Nvidia,4,GeForceMX350,lenovo,18200000,digikala,,TN,
+Intel,Celeron,Celeron N4020,DDR4,4,512,0,Intel,4,Intel UHD Graphic,lenovo,11600000,meghdad,768 * 1366,TN,15.6
+Intel,Corei3,I3 1115G4,DDR4,20,128,1024,Intel,4,Intel UHD Graphics,lenovo,18540000,meghdad,1080 * 1920 ,TN,15.6
+Intel,Corei3,1115G4,DDR4,12,0,0,Intel,4,UHDGraphics,lenovo,17200000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,12,0,0,Intel,4,UHD,lenovo,16310000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,dell,17600000,digikala,,TN,
+Intel,Corei5,1155G7,DDR4,8,0,0,Nvidia,4,GeForceMX350,lenovo,26960000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,lenovo,16499000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,20,0,0,Intel,4,UHDGraphics,asus,18990000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,8,0,0,Nvidia,4,GeforceMX450,lenovo,32180000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,12,0,0,Nvidia,4,GeForceMX450,lenovo,31000000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,12,0,0,Nvidia,4,GeForceMX450,lenovo,32800000,digikala,,TN,
+Intel,Corei5,1235U,DDR4,8,0,0,Intel,4,IntegratedIntelIrisXeGraphics,lenovo,25400000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,16,0,0,Intel,4,UHDGraphics,asus,20000000,digikala,,TN,
+AMD,Ryzen3,5300U,DDR4,4,0,0,AMD,4,RadeonRXVega6,lenovo,18000000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,12,0,0,Intel,4,UHDGraphics,lenovo,17760000,digikala,,TN,
+Intel,Corei5,1155G7,DDR4,16,0,0,Nvidia,4,GeForceMX350,lenovo,27900000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHDGraphics,dell,16900000,digikala,,TN,
+Intel,Celeron,N4020,DDR4,4,0,0,Intel,4,UHDGraphics600,lenovo,11200000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,12,0,0,Nvidia,4,GeForceMX450,lenovo,31050000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,8,0,0,Intel,4,UHDGraphics,lenovo,19520000,digikala,,TN,
+Intel,Corei5,1135G7,DDR4,8,0,0,Intel,4,IrisXe,dell,29950000,digikala,,TN,
+AMD,ATHLON,3050e,DDR4,4,0,0,AMD,4,RADEONRXVEGA3,lenovo,9900000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,4,0,0,Nvidia,4,GeForceMX450,lenovo,18800000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,8,0,0,Intel,4,UHDGraphics,lenovo,16800000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,16,0,0,Intel,4,UHDGraphics,asus,20000000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,4,0,0,Intel,4,IntegratedIntelUHDGraphics,lenovo,15400000,digikala,,TN,
+AMD,ATHLON,Silver 7120U,LPDDR5,8,0,0,AMD,4,Radeon610M,lenovo,13570000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,8,0,0,Nvidia,4,GeForceMX350,lenovo,19090000,digikala,,TN,
+AMD,Ryzen3,7320U,LPDDR5,4,0,0,AMD,4,Radeon610M,lenovo,14800000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,20,0,0,Intel,4,UHDGraphics,lenovo,19370000,digikala,,TN,
+AMD,Ryzen3,3250U,DDR4,4,0,0,AMD,4,RadeonGraphics,dell,17900000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,4,0,0,Nvidia,4,GEFORCEMX350,lenovo,19490000,digikala,,TN,
+Intel,Corei5,1155G7,DDR4,8,0,0,Nvidia,4,GeForceMX350,lenovo,25600000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,16,0,0,Nvidia,4,GeforceMX450,lenovo,33000000,digikala,,TN,
+AMD,Ryzen5,5500U,DDR4,4,0,0,AMD,4,RadeonRXVega7,lenovo,20000000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,12,0,0,Intel,4,UHDGraphics,lenovo,16700000,digikala,,TN,
+Intel,Celeron,N4020,DDR4,4,0,0,Intel,4,UHDGraphics,lenovo,11010000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,4,0,0,Intel,4,UHD,lenovo,15000000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,4,0,0,Nvidia,4,GeforceMX350GDDR5,lenovo,20989500,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,8,0,0,Nvidia,4,GeForceMX450,lenovo,31654000,digikala,,TN,
+Intel,Corei3,1305U,LPDDR5,8,0,0,Intel,4,UHDGraphics,lenovo,17280000,digikala,,TN,
+AMD,ATHLON,Silver 7120U,LPDDR5,8,0,0,AMD,4,Radeon610M,lenovo,14520000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,asus,16490000,digikala,,TN,
+Intel,Corei5,1235U,DDR4,8,512,0,Intel,4,INTEL,lenovo,24000000,meghdad,1080 * 1920 ,TN,15.6
+Intel,Corei7,1165G7,DDR4,16,0,0,Nvidia,4,GeForceMX450,lenovo,33200000,digikala,,TN,
+Intel,Corei5,1235U,DDR4,8,0,0,Intel,4,UHDGraphics,lenovo,23480000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,8,0,0,Nvidia,4,GeForceMX450,lenovo,28900000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,8,0,0,Intel,4,UHDGraphics,lenovo,17600000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,12,0,0,Intel,4,UHDGraphics,lenovo,18500000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,asus,18100000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,4,0,0,Nvidia,4,GeForceMX350,lenovo,18200000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,12,0,0,Intel,4,UHDGraphics,lenovo,16700000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,8,0,0,Nvidia,4,GeForceMX450,lenovo,28900000,digikala,,TN,
+AMD,Ryzen3,3250U,DDR4,4,0,0,AMD,4,RADEONVEGA3,hp,17280000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,12,0,0,Nvidia,4,GeForceMX350,lenovo,20899000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,16,0,0,Nvidia,4,GeForceMX450,lenovo,34500000,digikala,,TN,
+AMD,ATHLON,Silver 3050e,DDR4,4,0,0,AMD,4,RadeonGraphics,lenovo,9750000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,16,0,0,Nvidia,4,GeForceMX450,lenovo,34400000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,8,0,0,Nvidia,4,GeForceMX4502GBGDDR6,lenovo,33640000,digikala,,TN,
+Intel,Corei5,1135G7,DDR4,12,0,0,Nvidia,4,GeForceMX350,lenovo,25800000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,12,0,0,Nvidia,4,GeForceMX350,lenovo,20899000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,8,0,0,Nvidia,4,GeForceMX450,lenovo,33450000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,12,0,0,Intel,4,UHDGraphics,lenovo,20440000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,16,0,0,Nvidia,4,GeforceMX450,lenovo,33470000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHDGraphics,lenovo,14990000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,12,0,0,Nvidia,4,GeForceMX450,lenovo,33500000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,12,0,0,Intel,4,UHDGraphics,lenovo,20100000,digikala,,TN,
+Intel,Corei7,1165G7,DDR4,12,0,0,Nvidia,4,GeForceMX450,lenovo,33500000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,16,0,0,Intel,4,UHDGraphics,lenovo,20300000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,12,0,0,Intel,4,UHDGraphics,lenovo,21760000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,12,0,0,Intel,4,UHDGraphics,lenovo,20440000,digikala,,TN,
+Intel,Corei3,I3 1115G4,DDR4,12,256,1024,Intel,4,Intel UHD Graphics,lenovo,18150000,meghdad,1080 * 1920 ,TN,15.6
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHDGraphics,lenovo,15700000,digikala,,TN,
+Intel,Celeron,N4120,DDR4,4,0,0,Intel,4,UHDGraphics600,hp,15840000,digikala,,TN,
+Intel,Corei5,1135G7,DDR4,12,0,0,Nvidia,4,GeForceMX350,lenovo,26690000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,20,0,0,Intel,4,UHDGraphics,lenovo,19370000,digikala,,TN,
+Intel,Celeron,N4020,DDR4,4,0,0,Intel,4,UHDGraphics600,lenovo,12320000,digikala,,TN,
+Intel,Corei3,1115G4,DDR4,16,0,0,Intel,4,UHDGraphics,asus,20000000,digikala,,TN,
+Intel,Corei3,I3 1115G4,DDR4,20,256,1024,Intel,4,Intel UHD Graphics,lenovo,18990000,meghdad,1080 * 1920 ,TN,15.6
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,lenovo,17600000,digikala,,TN,
+Intel,Corei3,1215U,DDR4,12,0,0,Intel,4,UHDGraphics,lenovo,16780000,digikala,,TN,
+AMD,Ryzen5,5500U,DDR4,8,0,0,AMD,4,RadeonGraphics,hp,21450000,digikala,,WLED Backlit,
+Apple,M2,Apple M2 chip,Unified,24,0,0,Apple,4,10-core,apple,124034480,digikala,,WLED Backlit,
+Intel,Corei7,1255U,DDR4,16,512,0,Intel,4,Intel Iris Xe Graphics,asus,32599000,meghdad,1200*1920,WUXGA,16
+Intel,Corei5,1235U,DDR4,16,1024,0,Intel,4,Intel Iris Xe Graphics,asus,30189000,meghdad,1200*1920,WUXGA,16
+Intel,Corei7,1255U,DDR4,8,512,0,Intel,4,Intel Iris Xe Graphics,asus,31684000,meghdad,1200*1920,WUXGA,16
+Intel,Corei5,1235U,DDR4,16,512,0,Intel,4,Intel Iris Xe Graphics,asus,28814000,meghdad,1200*1920,WUXGA,16
+Intel,Corei5,12500H,DDR4,8,0,0,Nvidia,4,GeforceGTX1650GDDR6,asus,38990000,digikala,,WV,
+AMD,Ryzen7,5800H,DDR4,16,0,0,Nvidia,4,GEFORCEGTX1650,asus,36900000,digikala,,WV,
+Intel,Corei7,12700H,DDR5,16,0,0,Nvidia,4,GEFORCERTX3070GDDR6,asus,94500000,digikala,,WV,
+Intel,Corei7,12650H,DDR5,16,0,0,Nvidia,4,GeForceRTX3070GDDR6,asus,68460000,digikala,,WV,
+Intel,Corei5,12500H,DDR5,8,512,0,Nvidia,4,Geforce GTX1650 GDDR6,asus,37269000,meghdad,1080 * 1920 ,WV,15.6
+Intel,Corei5,12500H,DDR5,16,512,0,Nvidia,4,Geforce GTX1650 GDDR6,asus,42774000,meghdad,1080 * 1920 ,WV,15.6
+Intel,Corei5,1135G7,DDR4,16,0,0,Nvidia,4,GeForceMX350GDDR5,asus,34500000,digikala,,WV,
+Intel,Corei7,12650H,DDR5,32,2048,0,Nvidia,4,GeForce RTX 3050 Ti,asus,63799000,meghdad,1080 * 1920 ,WV,15.6
+Intel,Corei7,12700H,DDR5,16,0,0,Nvidia,4,GEFORCERTX3070GDDR6,asus,94500000,digikala,,WV,
+AMD,Ryzen7,6800H,DDR5,16,0,0,Nvidia,4,GeForceRTX3070Ti,asus,80999000,digikala,,WV,
+AMD,Ryzen7,6800HS,DDR5,16,0,0,Nvidia,4,GeforceRTX3070Ti,asus,73935860,digikala,,WV,
+AMD,Ryzen7,6800HS,DDR5,16,0,0,Nvidia,4,GeforceRTX3070Ti,asus,73935860,digikala,,WV,
+AMD,Ryzen5,5600H,DDR4,8,0,0,Nvidia,4,GeForceGTX1650GDDR6,asus,32000000,digikala,,WV,
+AMD,Ryzen7,5800H,DDR4,16,0,0,AMD,4,RadeonRXVega8,asus,33700000,digikala,,WV,
+Intel,Corei7,1165G7,DDR4,24,1024,0,Nvidia,2,NVIDIA Geforce MX330,asus,36889000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,8,512,0,Nvidia,2,NVIDIA Geforce MX330,asus,26889000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,8,0,1024,Nvidia,2,NVIDIA Geforce MX450,lenovo,31550000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1255U,DDR4,32,1024,0,Nvidia,2,MX550 GDDR6 ,dell,44200000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,20,512,0,Intel,4,UHD,lenovo,17270000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,512,0,Intel,4,UHD,lenovo,15655000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,12,512,0,Nvidia,2,NVIDIA Geforce MX330,asus,27389000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,512,1024,Intel,4,UHD,lenovo,17451000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,24,1024,0,Nvidia,2,GeForce® MX330,asus,29889000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,0,1024,Intel,4,Intel® UHD Graphics,acer,15800000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,24,512,0,Nvidia,2,GeForce® MX330,asus,32549000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1155G7,DDR4,12,256,0,Nvidia,2,GeForce® MX330,asus,21784000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1255U,DDR4,8,1024,0,Nvidia,2,MX550 GDDR6 ,dell,40750000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,12,256,1024,Nvidia,2,NVIDIA Geforce MX330,asus,35594000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,12,512,0,Nvidia,2,GeForce® MX330,asus,27289000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,8,512,0,Nvidia,2,GeForce® MX330,asus,26699000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,12,512,0,Nvidia,2,GeForce® MX330,asus,31184000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,8,512,0,Nvidia,2,NVIDIA Geforce MX330,asus,33174000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,0,1024,Intel,4,Intel® UHD Graphics,acer,15300000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,4,0,1024,Intel,4,Intel® UHD Graphics,acer,14700000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,20,1024,0,Nvidia,2,GeForce® MX330,asus,30049000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,16,512,0,Nvidia,2,GeForce® MX330,asus,27764000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1255U,DDR4,16,512,0,Nvidia,2,MX550 GDDR6 ,dell,39600000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,20,512,0,Nvidia,2,NVIDIA Geforce MX330,asus,22884000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1255U,DDR4,16,1024,0,Nvidia,2,MX550 GDDR6 ,dell,41833000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,8,256,0,Nvidia,2,NVIDIA Geforce MX450,lenovo,31050000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,16,512,0,Nvidia,2,NVIDIA Geforce MX330,asus,35189000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,1024,0,Intel,4,Intel® HD Graphics,asus,17864000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1255U,DDR4,8,512,0,Nvidia,2,MX550 GDDR6 ,dell,38600000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,4,512,0,Nvidia,2,NVIDIA Geforce MX330,asus,20484000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,8,256,1024,Nvidia,2,NVIDIA Geforce MX450,lenovo,32550000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,16,1024,0,Nvidia,2,NVIDIA Geforce MX330,asus,29408000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,16,512,0,Nvidia,2,NVIDIA Geforce MX330,asus,27989000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,16,256,1024,Nvidia,2,NVIDIA Geforce MX450,lenovo,33550000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Ryzen7,5800H,DDR4,16,512,0,Nvidia,4,RTX 3050,asus,43649000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,512,0,Nvidia,2,NVIDIA Geforce MX330,asus,21399000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,256,1024,Intel,4,UHD,lenovo,16750000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,24,1024,0,Nvidia,2,GeForce® MX330,asus,34174000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,16,512,0,Nvidia,2,GeForce® MX330,asus,31689000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,12,512,0,Intel,4,UHD,lenovo,16950000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,8,512,0,Intel,4,UHD Graphics,asus,18199000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,12,256,0,Intel,4,UHD Graphics,asus,18089000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,12,1024,0,Intel,4,UHD Graphics,asus,20274000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,8,512,0,Intel,4,UHD,lenovo,16500000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,4,256,0,Intel,4,UHD,lenovo,15180000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,16,512,0,Nvidia,2,GeForce® MX330,asus,27774000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,4,256,0,Intel,4,UHD,lenovo,16070000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,512,1024,Nvidia,2,MX350,acer,20700000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,12,512,0,Intel,4,UHD,lenovo,17850000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,1024,0,Intel,4,UHD,lenovo,17300000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,4,256,0,Nvidia,2,NVIDIA Geforce MX350 GDDR5,lenovo,17640000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,1024,0,Nvidia,2,NVIDIA Geforce MX350 GDDR5,lenovo,20750000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,512,0,Nvidia,2,NVIDIA Geforce MX350 GDDR5,lenovo,18990000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,512,0,Nvidia,2,NVIDIA Geforce MX350 GDDR5,lenovo,19400000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,0,1024,Nvidia,2,NVIDIA Geforce MX350 GDDR5,lenovo,19290000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,4,0,1024,Nvidia,2,NVIDIA Geforce MX350 GDDR5,lenovo,18670000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,0,1024,Intel,4,UHD,lenovo,17000000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,4,512,0,Intel,4,Intel® UHD Graphics,asus,15474000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,8,256,0,Intel,4,UHD Graphics,asus,17441000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,4,256,0,Intel,4,UHD Graphics,asus,16749000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,256,1024,Nvidia,2,NVIDIA Geforce MX350 GDDR5,lenovo,20480000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,256,0,Nvidia,2,NVIDIA Geforce MX350 GDDR5,lenovo,18367000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,256,1024,Nvidia,2,NVIDIA Geforce MX350 GDDR5,lenovo,19970000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,512,1024,Nvidia,2,NVIDIA Geforce MX350 GDDR5,lenovo,21075000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,512,0,Intel,4,UHD,lenovo,16090000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,12,256,0,Intel,4,UHD,lenovo,17190000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,256,0,Intel,4,UHD,lenovo,15400000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,4,0,1024,Intel,4,UHD,lenovo,14890000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,20,1024,0,Intel,4,UHD,lenovo,18350000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,256,1024,Intel,4,UHD,lenovo,16290000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,4,256,0,Intel,4,UHD,lenovo,14450000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,8,512,0,Intel,4,UHD,lenovo,17300000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,8,256,0,Intel,4,UHD,lenovo,15650000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,128,1024,Intel,4,UHD,lenovo,16100000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,20,512,0,Intel,4,UHD,lenovo,17990000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,8,256,0,Intel,4,UHD,lenovo,17700000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,8,256,1024,Intel,4,UHD,lenovo,17175000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,0,1024,Intel,4,UHD,lenovo,15440000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,12,1024,0,Nvidia,2,GeForce® MX330,asus,32074000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,8,512,0,Nvidia,2,GeForce® MX330,asus,30699000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,12,1024,0,Nvidia,2,GeForce® MX330,asus,28064000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,12,512,0,Nvidia,2,GeForce® MX330,asus,27233000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,256,1024,Nvidia,2,MX350,acer,19700000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,16,1024,0,Nvidia,2,GeForce® MX330,asus,32649000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,16,1024,0,Nvidia,2,GeForce® MX330,asus,29274000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,12,256,1024,Intel,4,UHD,lenovo,19190000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,8,256,1024,Intel,4,UHD,lenovo,18630000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,12,256,1024,Intel,4,UHD,lenovo,17690000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1215U,DDR4,12,512,1024,Intel,4,UHD,lenovo,18400000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1155G7,DDR4,4,256,0,Nvidia,2,GeForce® MX330,asus,20499000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,128,1024,Nvidia,2,MX350,acer,19100000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,256,1024,Nvidia,2,MX350,acer,20100000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1235U,DDR4,16,512,0,Intel,4,INTEL IRIS,lenovo,25000000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,256,1024,Intel,4,Intel® UHD Graphics,asus,18179000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,12,512,0,Nvidia,2,NVIDIA GeForce MX350,lenovo,24300000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,4,256,0,Intel,4,Intel® UHD Graphics,asus,16074000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,256,0,Intel,4,Intel® UHD Graphics,asus,16689000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,16,256,0,Nvidia,2,NVIDIA GeForce MX350,lenovo,24330000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,256,1024,Intel,4,Intel® UHD Graphics,asus,17249000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1235U,DDR4,16,512,1024,Intel,4,INTEL IRIS,lenovo,26500000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1235U,DDR4,8,512,1024,Intel,4,INTEL IRIS,lenovo,25500000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,4,256,0,Intel,4,Intel® UHD Graphics,asus,15079000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,512,0,Intel,4,Intel® UHD Graphics,asus,17289000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,256,0,Intel,4,Intel® UHD Graphics,asus,15299000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,16,512,0,Nvidia,2,NVIDIA GeForce MX350,lenovo,25350000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,1024,0,Intel,4,Intel® UHD Graphics,asus,18789000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,8,256,0,Nvidia,2,NVIDIA GeForce MX350,lenovo,23320000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,20,512,0,Intel,4,Intel® UHD Graphics,asus,18574000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,1024,0,Intel,4,Intel® UHD Graphics,asus,19289000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,8,256,1024,Nvidia,2,NVIDIA Geforce MX450,lenovo,28550000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,8,512,0,Nvidia,2,GeForce® MX330,asus,26514000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,8,512,0,Nvidia,2,NVIDIA Geforce MX450,lenovo,31550000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,12,256,1024,Nvidia,2,NVIDIA Geforce MX330,asus,28523000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,8,256,1024,Nvidia,2,NVIDIA Geforce MX330,asus,28114000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,24,512,0,Nvidia,2,NVIDIA Geforce MX330,asus,35689000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1255U,DDR4,32,512,0,Nvidia,2,MX550 GDDR6 ,dell,42200000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,16,256,1024,Nvidia,2,NVIDIA Geforce MX330,asus,36199000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei7,1165G7,DDR4,12,512,0,Nvidia,2,NVIDIA Geforce MX330,asus,33379000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,12,512,1024,Nvidia,2,NVIDIA Geforce MX330,asus,29464000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,16,512,1024,Nvidia,2,NVIDIA Geforce MX450,lenovo,30050000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,8,128,1024,Intel,4,Intel® UHD Graphics,asus,16934000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,16,256,1024,Nvidia,2,NVIDIA Geforce MX450,lenovo,29550000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,12,512,0,Intel,4,Intel® UHD Graphics,asus,17723000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,8,256,0,Nvidia,2,NVIDIA Geforce MX450,lenovo,27075000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,8,0,1024,Nvidia,2,NVIDIA Geforce MX450,lenovo,27550000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei5,1135G7,DDR4,12,256,0,Nvidia,2,NVIDIA GeForce MX350,lenovo,23670000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,I3 1115G4,DDR4,20,1024,0,Intel,4,Intel® UHD Graphics,asus,20289000,meghdad,1080 * 1920 ,full hd,15.6
+Intel,Corei3,1115G4,DDR4,12,0,0,Intel,4,UHDGraphics,lenovo,18850000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,lenovo,17800000,digikala,,lcd,
+Intel,Pentium,Pentium Gold 6405U,DDR4,8,0,0,Nvidia,4,MX130,lenovo,20900000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,20,0,0,Intel,4,UHDGraphics,asus,19200000,digikala,,lcd,
+Intel,Corei5,1135G7,DDR4,16,0,0,Nvidia,4,GeForceMX330,asus,30200000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHDGraphics,asus,15000000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,20,0,0,Intel,4,UHDGraphics,asus,20580000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,lenovo,19200000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,20,0,0,Intel,4,UHDGraphics,asus,19620000,digikala,,lcd,
+Intel,Corei3,8130U,DDR4,4,0,0,AMD,4,M430,lenovo,21490000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,12,0,0,Intel,4,UHDGraphics,lenovo,18850000,digikala,,lcd,
+Intel,Pentium,Pentium Gold 6405U,DDR4,8,0,0,Nvidia,4,MX130,lenovo,20900000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHDGraphics630,asus,16700000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHDGraphics,asus,17820000,digikala,,lcd,
+AMD,ATHLON,Athlon Silver 3050e,DDR4,4,0,0,AMD,4,IntegratedAMDRadeonGraphics,lenovo,11300000,digikala,,lcd,
+Intel,Corei7,1255U,DDR4,8,0,0,Nvidia,4,GeForceMX550,dell,38990000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,12,0,0,Intel,4,UHDGraphics,lenovo,18300000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHDGraphics,lenovo,16980000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,12,0,0,Intel,4,UHDGraphics,asus,18640000,digikala,,lcd,
+Intel,Corei5,1135G7,DDR4,8,0,0,Intel,4,IntelIrisXeGraphics,huawie,34990000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,asus,18420000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,12,0,0,Intel,4,UHDGraphics,asus,19660000,digikala,,lcd,
+AMD,ATHLON,Athlon Silver 3050e,DDR4,4,0,0,AMD,4,IntegratedAMDRadeonGraphics,lenovo,11940000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,20,0,0,Intel,4,UHDGraphics,asus,19200000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,4,0,0,Intel,4,UHDGraphics,asus,17820000,digikala,,lcd,
+Intel,Corei3,10110U,DDR4,8,0,0,Intel,4,UHDGraphics,asus,18400000,digikala,,lcd,
+Intel,Corei7,1255U,DDR4,32,0,0,Nvidia,4,GeForceMX550,dell,42490000,digikala,,lcd,
+Intel,Corei7,1255U,DDR4,32,0,0,Nvidia,4,GeForceMX550,dell,43500000,digikala,,lcd,
+Intel,Corei3,6006U,DDR4,4,0,0,Intel,4,HDGraphics520,asus,16800000,digikala,,lcd,
+Intel,Corei7,1255U,DDR4,16,0,0,Nvidia,4,GeForceMX550,dell,79500000,digikala,,lcd,
+Intel,Corei7,1165G7,DDR4,8,0,0,Nvidia,4,GeForceMX330,asus,31500000,digikala,,lcd,
+Intel,Corei7,1065G7,DDR4,8,0,0,Nvidia,4,GeForceMX330,asus,28700000,digikala,,lcd,
+Intel,Corei3,10110U,DDR4,12,0,0,Intel,4,UHDGraphics,asus,20200000,digikala,,lcd,
+Intel,Corei7,1255U,DDR4,16,0,0,Intel,4,IrisXeGraphics,asus,35950000,digikala,,lcd,
+Intel,Corei7,1255U,DDR4,16,0,0,Nvidia,4,IrisXe,asus,31600000,digikala,,lcd,
+Intel,Corei3,1215U,DDR4,8,0,0,Intel,4,UHDGraphics,asus,19850000,digikala,,lcd,
+Intel,Corei7,1065G7,DDR4,8,0,0,Nvidia,4,GeForceMX330,asus,28700000,digikala,,lcd,
+Intel,Corei3,6006U,DDR4,4,0,0,Intel,4,HDGraphics520,asus,15375000,digikala,,lcd,
+Intel,Corei3,10110U,DDR4,12,0,0,Intel,4,UHDGraphics,asus,20200000,digikala,,lcd,
+Intel,Corei3,6006U,DDR4,4,0,0,Intel,4,HDGraphics520,asus,17250000,digikala,,lcd,
+Intel,Corei7,1065G7,DDR4,16,0,0,Nvidia,4,GeForceMX330,asus,31890000,digikala,,lcd,
+Intel,Corei7,1165G7,DDR4,8,0,0,Nvidia,4,GeForceMX330,asus,35490000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,12,0,0,Intel,4,UHDGraphics,lenovo,18850000,digikala,,lcd,
+Intel,Corei7,1065G7,DDR4,12,0,0,Nvidia,4,GeForceMX330,asus,35370000,digikala,,lcd,
+Intel,Corei3,6006U,DDR4,4,0,0,Intel,4,HDGraphics520,asus,17250000,digikala,,lcd,
+Intel,Corei7,1255U,DDR4,8,0,0,Nvidia,4,IrisXeGraphics,asus,30300000,digikala,,lcd,
+Intel,Corei3,6006U,DDR4,4,0,0,Intel,4,HDGraphics520,asus,16800000,digikala,,lcd,
+Intel,Corei5,1335U,DDR5,8,0,0,Intel,4,IrisXe,dell,55500000,digikala,,lcd,
+Intel,Corei7,1165G7,DDR4,8,0,0,Nvidia,4,GeForceMX330,asus,35490000,digikala,,lcd,
+Intel,Corei7,1065G7,DDR4,8,0,0,Nvidia,4,GeForceMX330,asus,36180000,digikala,,lcd,
+Intel,Corei7,1165G7,DDR4,16,0,0,Nvidia,4,GeForceMX330,asus,33970000,digikala,,lcd,
+Intel,Corei7,13650HX,DDR5,16,0,0,Nvidia,4,GeForceRTX4050,dell,82000000,digikala,,lcd,
+Intel,Corei7,1065G7,DDR4,16,0,0,Nvidia,4,GeForceMX330,asus,34020000,digikala,,lcd,
+Intel,Corei5,1235U,DDR4,16,0,0,Intel,4,IrisXe,asus,28099000,digikala,,lcd,
+Intel,Corei5,1135G7,DDR4,8,0,0,Nvidia,4,GeForceMX330,asus,26500000,digikala,,lcd,
+Intel,Corei3,1115G4,DDR4,8,0,0,Intel,4,UHDGraphics,lenovo,18350000,digikala,,lcd,
+Intel,Corei7,1255U,DDR4,16,0,0,Intel,4,IrisXeGraphics,asus,35950000,digikala,,lcd,
+Intel,Corei3,1215U,DDR4,8,0,0,Intel,4,UHDGraphics,asus,17680000,digikala,,lcd,
